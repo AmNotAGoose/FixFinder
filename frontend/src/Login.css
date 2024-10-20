@@ -1,0 +1,71 @@
+.login-hero {
+    display: flex;
+    align-items: center;
+    justify-content: right;
+    height: 100vh;
+    padding-right: 10%;
+    text-align: right;
+    color: var(--primary-text-color);    
+    background: linear-gradient(30deg, var(--primary-color), 30%, var(--secondary-color));
+    position: relative;
+}
+
+.login-hero-items { 
+    flex-direction: column;
+}
+
+.login-hero h1 {
+	font-size: 6rem;
+	margin-bottom: 20px;    
+}
+
+.login-hero-button {
+	padding: 10px 20px;
+	font-size: 1rem;
+	color: #fff;
+	background-color: var(--secondary-text-color);
+	border: none;
+	border-radius: 5px;
+	cursor: pointer;
+	transition: background-color 0.3s;
+}
+
+.login-hero p {
+	font-size: 1.25rem;
+	margin-bottom: 30px;
+}
+
+.login-hero-button:hover {
+	background-color: var(--accent-color);
+}
+
+@keyframes rotateOut {
+    to {
+        transform: rotate(360deg);
+        opacity: 0;
+    }
+}
+
+.login-smartphone-image {
+    left: 20%;
+    position: absolute;
+    width: 700px;
+    animation: rotateOut 2s ease-in forwards;
+    animation-delay: 0.3s;
+}
+
+@keyframes rotateIn {
+    to {
+        transform: rotate(360deg);
+        opacity: 1;
+    }
+}
+
+.login-money-image {
+    left: 20%;
+    position: absolute;
+    width: 700px;
+    opacity: 0;
+    animation: rotateIn 2s ease-out forwards;
+    animation-delay: 2.3s;
+}
