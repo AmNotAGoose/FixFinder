@@ -5,6 +5,7 @@ select {
     text-overflow: '';
 }
 
+
 .diagnose-content {
     display: flex;
     flex-direction: column;
@@ -14,7 +15,11 @@ select {
     margin-top: auto;
     border-radius: 8px;
     height: 100vh;
-    background: linear-gradient(-60deg, var(--primary-color), 30%, var(--secondary-color))
+    background: linear-gradient(-60deg, var(--primary-color), 30%, #69a58446)
+}
+
+.diagnose-content h1 {
+    color: #333;
 }
 
 .diagnose-content-button {
@@ -22,7 +27,7 @@ select {
 }
 
 .diagnose-content-container {
-    padding: 20px;
+    padding: 60px;
 }
 
 .forum-form {
@@ -42,6 +47,7 @@ select {
     font-style: italic;
     font-family: inherit;
     background-color: transparent;
+    color: var(--primary-color);
 }
 
 .dropdown {
@@ -54,18 +60,5 @@ select {
     font-style: italic;
     font-family: inherit;
     background-color: transparent;
-}
-
-.submit-button {
-    background-color: #4A90E2;
-    border: none;
-    color: white;
-    padding: 10px 15px;
-    border-radius: 5px;
-    cursor: pointer;
-    transition: background-color 0.3s;
-}
-
-.submit-button:hover {
-    background-color: #357ABD;
+    color: var(--primary-color);
 }

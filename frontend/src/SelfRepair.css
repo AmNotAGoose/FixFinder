@@ -1,0 +1,28 @@
+.selfrepair-content {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    text-align: left;
+    margin-top: auto;
+    border-radius: 8px;
+    height: 100vh;
+    background: linear-gradient(-60deg, var(--primary-color), 30%, #69a58446)
+}
+
+.selfrepair-content h1 {
+    color: #333;
+}
+
+.selfrepair-content-button {
+    margin: 20px;
+}
+
+.selfrepair-content-container {
+    padding: 60px;
+}
+
+.selfrepair-instruction {
+    margin-bottom: 30px;
+    text-align: left;
+}

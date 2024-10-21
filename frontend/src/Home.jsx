@@ -49,7 +49,7 @@ function Home() {
         <div className="hero-content">
           <h1>Your <span className={`hero-highlight ${animateTextClass}`}>{swappingText[currentTextIndex]}</span></h1>
           <h1>deserves a second chance</h1>
-          <p>Find out how your device can be restored easily, at home!</p>
+          <p>Find out how your old device can be easily restored at home!</p>
           <button className="hero-button">
             Take me there!
           </button>

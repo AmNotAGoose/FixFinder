@@ -32,7 +32,8 @@ body {
 	padding-left: 10%;
 	text-align: left;
 	color: var(--primary-text-color);    
-	background: linear-gradient(30deg, var(--primary-color), 60%, var(--secondary-color));
+	background: repeating-radial-gradient( circle at 100% 100%, rgba(229, 238, 247, 0.075) 0, rgba(229, 229, 247, 0.05) 50px, transparent 100px ), linear-gradient(30deg, var(--primary-color), 60%, var(--secondary-color));
+	opacity: 0.8;
 }
 
 .hero-content {
