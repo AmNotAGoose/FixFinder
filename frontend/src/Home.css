@@ -32,8 +32,11 @@ body {
 	padding-left: 10%;
 	text-align: left;
 	color: var(--primary-text-color);    
-	background: repeating-radial-gradient( circle at 100% 100%, rgba(229, 238, 247, 0.075) 0, rgba(229, 229, 247, 0.05) 50px, transparent 100px ), linear-gradient(30deg, var(--primary-color), 60%, var(--secondary-color));
 	opacity: 0.8;
+}
+
+.hero-gradient {
+	background: repeating-radial-gradient( circle at 100% 100%, rgba(229, 238, 247, 0.075) 0, rgba(229, 229, 247, 0.05) 50px, transparent 100px ), linear-gradient(30deg, var(--primary-color), 60%, var(--secondary-color));
 }
 
 .hero-content {
@@ -94,12 +97,27 @@ body {
 
 .main-section.light {
 	background-color: #eee;
-	
+	color: #333;
 }
 
 .main-section.dark {
 	background-color: #333;
 	color: #fff;
+	flex-direction: row;
+	text-align: left;
+	padding-left: 20%;
+	padding-right: 20%;
+}
+
+.main-section.dark h1 {
+	font-size: 100px;
+	margin-bottom: 40px; 
+	margin-top: 20px; 
+}
+
+.main-section.dark h2 {
+	font-size: 30px;
+	margin-top: 0; 
 }
 
 .main-section h2 {
@@ -141,6 +159,7 @@ body {
 	position: relative;
 	will-change: filter;
 	transition: filter 300ms;
+	width: 29%;
 }
 
 .card:hover {
@@ -148,9 +167,9 @@ body {
 }
 
 .card h2 {
-	margin: 0 0 10px;
+	margin-bottom: 20px;
 }
 
 .card p {
-	margin: 0;
+	margin-bottom: 20px;
 }

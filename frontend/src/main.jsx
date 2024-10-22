@@ -6,7 +6,6 @@ import './index.css'
 import Login from './Login.jsx';
 import { UserProvider } from './contexts/UserContext.jsx';
 import Diagnose from './Diagnose.jsx';
-import Dashboard from './Dashboard.jsx';
 import SelfRepair from './SelfRepair.jsx';
 import Marketplace from './Marketplace.jsx';
 
@@ -17,7 +16,6 @@ createRoot(document.getElementById('root')).render(
         <Route path="/" element={<Home />} />
         <Route path="/login" element={<Login />} />
         <Route path="/diagnose" element={<Diagnose />} />
-        <Route path="/dashboard" element={<Dashboard />} />
         <Route path="/selfrepair" element={<SelfRepair />} />
         <Route path="/marketplace" element={<Marketplace />} />
       </Routes>

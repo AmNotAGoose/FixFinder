@@ -22,9 +22,18 @@ function SelfRepair() {
         loadArticles();
     }, [message, articles, getArticles, setArticles])
 
+    if (!articles) {
+        return (
+            <div className='login-hero'>
+                <div className="logos">
+                    <img src={logo} className="logo" />
+                </div>
+                <h1>Loading...</h1>
+            </div>)
+    }
     
     const goToDashboard = async () => {
-        navigate('/dashboard')
+        navigate('/')
     }
 
     const goToMarketplace = async () => {

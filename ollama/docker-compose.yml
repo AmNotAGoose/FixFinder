@@ -1,0 +1,60 @@
+# based off of https://github.com/valiantlynx/ollama-docker/blob/main/docker-compose.yml
+version: '3.8'
+services:
+  weaviate:
+    image: semitechnologies/weaviate:latest
+    ports:
+     - 50051:50051
+     - 38701:8080
+    restart: on-failure:0
+    environment:
+      QUERY_DEFAULTS_LIMIT: 25
+      AUTHENTICATION_ANONYMOUS_ACCESS_ENABLED: 'true'
+      PERSISTENCE_DATA_PATH: '/var/lib/weaviate'
+      DEFAULT_VECTORIZER_MODULE: 'none'
+      CLUSTER_HOSTNAME: 'node1'
+    networks:
+      - ollama-docker
+
+  ollama:
+    image: ollama/ollama:latest
+    ports:
+      - 38702:11434
+    volumes:
+      - .:/code
+      - ./ollama/ollama:/root/.ollama
+    container_name: ollama
+    pull_policy: always
+    tty: true
+    restart: always
+    environment:
+      - OLLAMA_KEEP_ALIVE=24h
+      - OLLAMA_HOST=0.0.0.0
+    networks:
+      - ollama-docker
+
+  ollama-webui:
+    image: ghcr.io/open-webui/open-webui:main
+    container_name: ollama-webui
+    volumes:
+      - ./ollama/ollama-webui:/app/backend/data
+    depends_on:
+      - ollama
+    ports:
+      - 38703:8080
+    environment: # https://docs.openwebui.com/getting-started/env-configuration#default_models
+      - OLLAMA_BASE_URLS=http://host.docker.internal:38702
+      - ENV=dev
+      - WEBUI_AUTH=False
+      - WEBUI_NAME=
+      - WEBUI_URL=http://localhost:38703
+      - WEBUI_SECRET_KEY=removed
+    extra_hosts:
+      - host.docker.internal:host-gateway
+    restart: unless-stopped
+    networks:
+      - ollama-docker
+
+networks:
+  ollama-docker:
+    external: false

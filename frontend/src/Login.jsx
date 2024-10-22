@@ -4,6 +4,7 @@ import { useNavigate } from "react-router-dom";
 import './Login.css'
 import smartphone from'./assets/smartphone.png'
 import money from'./assets/money.png'
+import logo from './assets/logo.png'
 
 const Login = () => {
     const { user, loading, login} = useUser();
@@ -15,13 +16,16 @@ const Login = () => {
 
     useEffect(() => {
         if (user) {
-            navigate('/dashboard');
+            navigate('/');
         }
     }, [user, navigate]);
 
     if (loading){
         return (
             <div className='login-hero'>
+                <div className="logos">
+                    <img src={logo} className="logo" />
+                </div>
                 <h1>Loading...</h1>
             </div>)
     }

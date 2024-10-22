@@ -4,8 +4,10 @@ const cors = require('cors');
 const admin = require('firebase-admin');
 const User = require('./models/User.js');
 const Model = require('./models/Model.js');
+const Listing = require('./models/Listing.js');
 const serviceAccount = require("./secrets/hack49-3e467-firebase-adminsdk-i5i7u-dba126b053.json");
 const axios = require('axios');
+const RepairShop = require('./models/RepairShop.js');
 const weaviate = require('weaviate-client').default;
 
 
@@ -44,9 +46,15 @@ async function getEmbedding(prompt) {
             baseURL: process.env.OLLAMA_URL,
         });
 
+        const interpretation = await ollamaClient.post('/api/generate', {
+            model: "llama3.1:8b",
+            prompt: "Using this prompt:" + prompt + "\nDetermine the problem in one sentence. Only output one sentence.",  
+            stream: false
+        });
+
         const response = await ollamaClient.post('/api/embeddings', {
             model: "all-minilm",
-            prompt: prompt,
+            prompt: interpretation.data.response,
         });
         
         return response.data.embedding;
@@ -130,16 +138,20 @@ app.get('/api/protected/getarticles', async (req, res) => {
     }
 });
 
-app.get('/api/protected/getverdict', async (req, res) => {
+app.get('/api/protected/getlistings', async (req, res) => {
     try {
-        const uid = req.user.uid;
-        const newUser = await User.findOneAndUpdate(
-            { uid },
-            { lastAiCall: new Date() },
-            { new: true, upsert: true } 
-        );
-        const savedUser = await newUser.save();
-        res.status(201).json({ message: 'User saved successfully', data: savedUser });
+        const listings = await Listing.find({});
+        res.json(listings);
+    } catch (error) {
+        console.error('Error making user:', error);
+        res.status(500).json({ error: 'Internal server error' });
+    }
+});
+
+app.get('/api/protected/getrepairshops', async (req, res) => {
+    try {
+        const repairShops = await RepairShop.find({});
+        res.json(repairShops);
     } catch (error) {
         console.error('Error making user:', error);
         res.status(500).json({ error: 'Internal server error' });

@@ -56,3 +56,25 @@ export const getArticles = async (token, prompt) => {
         throw error;
     }
 };
+
+export const getListings = async (token) => {
+    try {
+        const axios = await createAxiosInstance(token);
+        const response = await axios.get(`${API_URL}/api/protected/getlistings`);
+        return response.data;
+    } catch (error) {
+        console.error('Error fetching listing s:', error);
+        throw error;
+    }
+};
+
+export const getRepairShops = async (token) => {
+    try {
+        const axios = await createAxiosInstance(token);
+        const response = await axios.get(`${API_URL}/api/protected/getrepairshops`);
+        return response.data;
+    } catch (error) {
+        console.error('Error fetching reapir shops:', error);
+        throw error;
+    }
+};

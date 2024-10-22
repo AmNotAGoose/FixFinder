@@ -1,0 +1,14 @@
+version: '3.8'
+
+services:
+  mongo:
+    image: mongo:latest
+    ports:
+      - '27020:27017'
+    environment:
+      MONGO_INITDB_ROOT_USERNAME: removed
+      MONGO_INITDB_ROOT_PASSWORD: removed
+    volumes:
+      - mongo-data-hack49:/data/db
+volumes:
+  mongo-data-hack49:

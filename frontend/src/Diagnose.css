@@ -15,6 +15,7 @@ select {
     margin-top: auto;
     border-radius: 8px;
     height: 100vh;
+	background-color: #eee;
     background: linear-gradient(-60deg, var(--primary-color), 30%, #69a58446)
 }
 

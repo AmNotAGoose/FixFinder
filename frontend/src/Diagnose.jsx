@@ -27,7 +27,7 @@ const Diagnose = () => {
     }, [token]);
 
     const goBack = async () => {
-        navigate('/dashboard')
+        navigate('/')
     }
 
     const handleSubmit = async (e) => {

@@ -1,0 +1,682 @@
+Battery repair for Google Pixel 2: https://www.ifixit.com/Guide/Google+Pixel+2+Battery+Replacement/103334
+Charging Assembly repair for Google Pixel 2: https://www.ifixit.com/Guide/Google+Pixel+2+Charging+Assembly+Replacement/103332
+Display Adhesive repair for Google Pixel 2: https://www.ifixit.com/Guide/Google+Pixel+2+Display+Adhesive+Replacement/120052
+Fingerprint Sensor repair for Google Pixel 2: https://www.ifixit.com/Guide/Google+Pixel+2+Fingerprint+Sensor+Replacement/103330
+Front Camera repair for Google Pixel 2: https://www.ifixit.com/Guide/Google+Pixel+2+Front+Camera++Replacement/104430
+Loudspeaker repair for Google Pixel 2: https://www.ifixit.com/Guide/Google+Pixel+2+Loudspeaker+Replacement/112674
+Motherboard repair for Google Pixel 2: https://www.ifixit.com/Guide/Google+Pixel+2+Motherboard+Replacement/103335
+Power and Volume Button repair for Google Pixel 2: https://www.ifixit.com/Guide/Google+Pixel+2+Power+and+Volume+Button+Replacement/112675
+Rear Camera repair for Google Pixel 2: https://www.ifixit.com/Guide/Google+Pixel+2+Rear+Camera+Replacement/112672
+Rear Camera Lens Glass repair for Google Pixel 2: https://www.ifixit.com/Guide/Google+Pixel+2+Rear+Camera+Lens+Glass+Replacement/136980
+Screen repair for Google Pixel 2: https://www.ifixit.com/Guide/How+to+Replace+a+Google+Pixel+2+Screen/103077
+Back Glass repair for Google Pixel 2 XL: https://www.ifixit.com/Guide/Google+Pixel+2+XL+Back+Glass+Replacement/150215
+Battery repair for Google Pixel 2 XL: https://www.ifixit.com/Guide/Google+Pixel+2+XL+Battery+Replacement/108454
+Charging Assembly repair for Google Pixel 2 XL: https://www.ifixit.com/Guide/Google+Pixel+2+XL+Charging+Assembly+Replacement/108463
+Display Adhesive repair for Google Pixel 2 XL: https://www.ifixit.com/Guide/Google+Pixel+2+XL+Display+Adhesive+Replacement/119384
+Earpiece Speaker repair for Google Pixel 2 XL: https://www.ifixit.com/Guide/Google+Pixel+2+XL+Earpiece+Speaker+Replacement/150218
+Loudspeaker repair for Google Pixel 2 XL: https://www.ifixit.com/Guide/Google+Pixel+2+XL+Loudspeaker+Replacement/108462
+Motherboard repair for Google Pixel 2 XL: https://www.ifixit.com/Guide/Google+Pixel+2+XL+Motherboard+Replacement/108459
+NFC Antenna repair for Google Pixel 2 XL: https://www.ifixit.com/Guide/Google+Pixel+2+XL+NFC+Antenna+Replacement/150217
+Rear Camera repair for Google Pixel 2 XL: https://www.ifixit.com/Guide/Google+Pixel+2+XL+Rear+Camera+Replacement/108457
+SIM Card repair for Google Pixel 2 XL: https://www.ifixit.com/Guide/Google+Pixel+2+XL+SIM+Card+Replacement/118145
+Screen repair for Google Pixel 2 XL: https://www.ifixit.com/Guide/Google+Pixel+2+XL+Screen+Replacement/102774
+Back Cover repair for Google Pixel 3: https://www.ifixit.com/Guide/Google+Pixel+3+Back+Cover+Replacement/124655
+Battery repair for Google Pixel 3: https://www.ifixit.com/Guide/Google+Pixel+3+Battery+Replacement/124702
+Charging Assembly repair for Google Pixel 3: https://www.ifixit.com/Guide/Google+Pixel+3+Charging+Assembly+Replacement/124662
+Display Assembly repair for Google Pixel 3: https://www.ifixit.com/Guide/Google+Pixel+3+Display+Assembly+Replacement/124779
+Fingerprint Sensor repair for Google Pixel 3: https://www.ifixit.com/Guide/Google+Pixel+3+Fingerprint+Sensor+Replacement/124656
+Front-Facing Cameras repair for Google Pixel 3: https://www.ifixit.com/Guide/Google+Pixel+3+Front-Facing+Cameras+Replacement/124658
+Loudspeaker repair for Google Pixel 3: https://www.ifixit.com/Guide/Google+Pixel+3+Loudspeaker+Replacement/124659
+Motherboard repair for Google Pixel 3: https://www.ifixit.com/Guide/Google+Pixel+3+Motherboard+Replacement/124705
+Rear-Facing Camera repair for Google Pixel 3: https://www.ifixit.com/Guide/Google+Pixel+3+Rear-Facing+Camera+Replacement/124776
+SIM Card Tray repair for Google Pixel 3: https://www.ifixit.com/Guide/Google+Pixel+3+SIM+Card+Tray+Replacement/152674
+Screen Assembly repair for Google Pixel 3: https://www.ifixit.com/Guide/Google+Pixel+3+Screen+Assembly+Replacement/152671
+Back Cover repair for Google Pixel 3 XL: https://www.ifixit.com/Guide/Google+Pixel+3+XL+Back+Cover+Replacement/128320
+Battery repair for Google Pixel 3 XL: https://www.ifixit.com/Guide/Google+Pixel+3+XL+Battery+Replacement/128323
+Charging Assembly repair for Google Pixel 3 XL: https://www.ifixit.com/Guide/Google+Pixel+3+XL+Charging+Assembly+Replacement/149970
+Fingerprint Sensor repair for Google Pixel 3 XL: https://www.ifixit.com/Guide/Google+Pixel+3+XL+Fingerprint+Sensor+Replacement/128318
+Flash Diffuser repair for Google Pixel 3 XL: https://www.ifixit.com/Guide/Google+Pixel+3+XL+Flash+Diffuser+Replacement/128319
+Front-Facing Camera repair for Google Pixel 3 XL: https://www.ifixit.com/Guide/Google+Pixel+3+XL+Front-Facing+Camera+Replacement/128325
+Loudspeaker repair for Google Pixel 3 XL: https://www.ifixit.com/Guide/Google+Pixel+3+XL+Loudspeaker+Replacement/128324
+Motherboard repair for Google Pixel 3 XL: https://www.ifixit.com/Guide/Google+Pixel+3+XL+Motherboard+Replacement/128421
+Rear-Facing Camera repair for Google Pixel 3 XL: https://www.ifixit.com/Guide/Google+Pixel+3+XL+Rear-Facing+Camera+Replacement/128408
+SIM Card Tray repair for Google Pixel 3 XL: https://www.ifixit.com/Guide/Google+Pixel+3+XL+SIM+Card+Tray+Replacement/128295
+Screen repair for Google Pixel 3 XL: https://www.ifixit.com/Guide/Google+Pixel+3+XL+Screen+Replacement/128486
+Screen Assembly repair for Google Pixel 3 XL: https://www.ifixit.com/Guide/Google+Pixel+3+XL+Screen+Assembly+Replacement/152678
+Wireless Charging Coil repair for Google Pixel 3 XL: https://www.ifixit.com/Guide/Google+Pixel+3+XL+Wireless+Charging+Coil+Replacement/128322
+Battery repair for Google Pixel 3a: https://www.ifixit.com/Guide/Google+Pixel+3a+Battery+Replacement/124322
+Daughterboard repair for Google Pixel 3a: https://www.ifixit.com/Guide/Google+Pixel+3a+Daughterboard+Replacement/124314
+Earpiece Speaker repair for Google Pixel 3a: https://www.ifixit.com/Guide/Google+Pixel+3a+Earpiece+Speaker+Replacement/124309
+Fingerprint Sensor repair for Google Pixel 3a: https://www.ifixit.com/Guide/Google+Pixel+3a+Fingerprint+Sensor+Replacement/124392
+Front Facing Camera repair for Google Pixel 3a: https://www.ifixit.com/Guide/Google+Pixel+3a+Front+Facing+Camera+Replacement/124391
+Headphone Jack repair for Google Pixel 3a: https://www.ifixit.com/Guide/Google+Pixel+3a+Headphone+Jack+Replacement/124385
+Loudspeaker repair for Google Pixel 3a: https://www.ifixit.com/Guide/Google+Pixel+3a+Loudspeaker+Replacement/124316
+Motherboard repair for Google Pixel 3a: https://www.ifixit.com/Guide/Google+Pixel+3a+Motherboard+Replacement/124386
+Rear Facing Camera repair for Google Pixel 3a: https://www.ifixit.com/Guide/Google+Pixel+3a+Rear+Facing+Camera+Replacement/124321
+SIM Card Tray repair for Google Pixel 3a: https://www.ifixit.com/Guide/Google+Pixel+3a+SIM+Card+Tray+Replacement/124267
+Screen repair for Google Pixel 3a: https://www.ifixit.com/Guide/Google+Pixel+3a+Screen+Replacement/124291
+USB-C Port repair for Google Pixel 3a: https://www.ifixit.com/Guide/Google+Pixel+3a+USB-C+Port+Replacement/124313
+Battery repair for Google Pixel 3a XL: https://www.ifixit.com/Guide/Google+Pixel+3a+XL+Battery+Replacement/124631
+Headphone Jack repair for Google Pixel 3a XL: https://www.ifixit.com/Guide/Google+Pixel+3a+XL+Headphone+Jack+Replacement/124575
+Rear-Facing Camera repair for Google Pixel 3a XL: https://www.ifixit.com/Guide/Google+Pixel+3a+XL+Rear-Facing+Camera+Replacement/124629
+Screen repair for Google Pixel 3a XL: https://www.ifixit.com/Guide/Google+Pixel+3a+XL+Screen+Replacement/124262
+USB-C Port repair for Google Pixel 3a XL: https://www.ifixit.com/Guide/Google+Pixel+3a+XL+USB-C+Port+Replacement/124576
+Back Panel repair for Google Pixel 4: https://www.ifixit.com/Guide/Google+Pixel+4+Back+Panel+Replacement/136190
+Battery repair for Google Pixel 4: https://www.ifixit.com/Guide/Google+Pixel+4+Battery+Replacement/136194
+Bottom Microphone repair for Google Pixel 4: https://www.ifixit.com/Guide/Google+Pixel+4+Bottom+Microphone+Replacement/136216
+Charging Assembly repair for Google Pixel 4: https://www.ifixit.com/Guide/Google+Pixel+4+Charging+Assembly+Replacement/136196
+Display Assembly repair for Google Pixel 4: https://www.ifixit.com/Guide/Google+Pixel+4+Display+Assembly+Replacement/136195
+Flash Assembly repair for Google Pixel 4: https://www.ifixit.com/Guide/Google+Pixel+4+Flash+Assembly+Replacement/136218
+Front Camera and Sensor Assembly repair for Google Pixel 4: https://www.ifixit.com/Guide/Google+Pixel+4+Front+Camera+and+Sensor+Assembly+Replacement/136191
+Google Pixel 4 Screen Replacement repair for Google Pixel 4: https://www.ifixit.com/Guide/Google+Pixel+4+Screen+Replacement/129324
+Left Grip Sensor repair for Google Pixel 4: https://www.ifixit.com/Guide/Google+Pixel+4+Left+Grip+Sensor+Replacement/136229
+Loudspeaker repair for Google Pixel 4: https://www.ifixit.com/Guide/Google+Pixel+4+Loudspeaker+Replacement/136215
+Motherboard repair for Google Pixel 4: https://www.ifixit.com/Guide/Google+Pixel+4+Motherboard+Replacement/136192
+Rear Camera Module repair for Google Pixel 4: https://www.ifixit.com/Guide/Google+Pixel+4+Rear+Camera+Module+Replacement/136193
+Right Grip Sensor repair for Google Pixel 4: https://www.ifixit.com/Guide/Google+Pixel+4+Right+Grip+Sensor+Replacement/136227
+SIM Card Tray repair for Google Pixel 4: https://www.ifixit.com/Guide/Google+Pixel+4+SIM+Card+Tray+Replacement/136188
+Screen repair for Google Pixel 4: https://www.ifixit.com/Guide/Google+Pixel+4+Screen+Replacement/150706
+Side Buttons repair for Google Pixel 4: https://www.ifixit.com/Guide/Google+Pixel+4+Side+Buttons+Replacement/136230
+Wireless Charging Coil repair for Google Pixel 4: https://www.ifixit.com/Guide/Google+Pixel+4+Wireless+Charging+Coil+Replacement/136217
+Back Panel repair for Google Pixel 4 XL: https://www.ifixit.com/Guide/Google+Pixel+4+XL+Back+Panel+Replacement/135911
+Battery repair for Google Pixel 4 XL: https://www.ifixit.com/Guide/Google+Pixel+4+XL+Battery+Replacement/135915
+Charging Assembly repair for Google Pixel 4 XL: https://www.ifixit.com/Guide/Google+Pixel+4+XL+Charging+Assembly+Replacement/135918
+Display Assembly repair for Google Pixel 4 XL: https://www.ifixit.com/Guide/Google+Pixel+4+XL+Display+Assembly+Replacement/135917
+Earpiece Speaker repair for Google Pixel 4 XL: https://www.ifixit.com/Guide/Google+Pixel+4+XL+Earpiece+Speaker+Replacement/135951
+Front Camera and Sensor Assembly repair for Google Pixel 4 XL: https://www.ifixit.com/Guide/Google+Pixel+4+XL+Front+Camera+and+Sensor+Assembly+Replacement/135919
+Loudspeaker repair for Google Pixel 4 XL: https://www.ifixit.com/Guide/Google+Pixel+4+XL+Loudspeaker+Replacement/135912
+Motherboard repair for Google Pixel 4 XL: https://www.ifixit.com/Guide/Google+Pixel+4+XL+Motherboard+Replacement/135925
+Rear Camera Module repair for Google Pixel 4 XL: https://www.ifixit.com/Guide/Google+Pixel+4+XL+Rear+Camera+Module+Replacement/135920
+SIM Card Tray repair for Google Pixel 4 XL: https://www.ifixit.com/Guide/Google+Pixel+4+XL+SIM+Card+Tray+Replacement/135914
+Screen repair for Google Pixel 4 XL: https://www.ifixit.com/Guide/Google+Pixel+4+XL+Screen+Replacement/151100
+Soli Motion Sensor repair for Google Pixel 4 XL: https://www.ifixit.com/Guide/Google+Pixel+4+XL+Soli+Motion+Sensor+Replacement/135924
+Wireless Charging Coil repair for Google Pixel 4 XL: https://www.ifixit.com/Guide/Google+Pixel+4+XL+Wireless+Charging+Coil+Replacement/135921
+Back Cover repair for Google Pixel 4a: https://www.ifixit.com/Guide/Google+Pixel+4a+Back+Cover+Replacement/139555
+Battery repair for Google Pixel 4a: https://www.ifixit.com/Guide/Google+Pixel+4a+Battery+Replacement/139563
+Charging Port repair for Google Pixel 4a: https://www.ifixit.com/Guide/Google+Pixel+4a+Charging+Port+Replacement/139567
+Fingerprint Sensor repair for Google Pixel 4a: https://www.ifixit.com/Guide/Google+Pixel+4a+Fingerprint+Sensor+Replacement/139556
+Front-Facing Camera repair for Google Pixel 4a: https://www.ifixit.com/Guide/Google+Pixel+4a+Front-Facing+Camera+Replacement/139561
+Headphone Jack repair for Google Pixel 4a: https://www.ifixit.com/Guide/Google+Pixel+4a+Headphone+Jack+Replacement/139558
+Loudspeaker repair for Google Pixel 4a: https://www.ifixit.com/Guide/Google+Pixel+4a+Loudspeaker+Replacement/139562
+Motherboard repair for Google Pixel 4a: https://www.ifixit.com/Guide/Google+Pixel+4a+Motherboard+Replacement/139565
+Rear-Facing Camera repair for Google Pixel 4a: https://www.ifixit.com/Guide/Google+Pixel+4a+Rear-Facing+Camera+Replacement/139566
+SIM Card Tray repair for Google Pixel 4a: https://www.ifixit.com/Guide/Google+Pixel+4a+SIM+Card+Tray+Replacement/139542
+Screen repair for Google Pixel 4a: https://www.ifixit.com/Guide/Google+Pixel+4a+Screen+Replacement/139544
+Vibration Motor repair for Google Pixel 4a: https://www.ifixit.com/Guide/Google+Pixel+4a+Vibration+Motor+Replacement/139564
+Back Cover repair for Google Pixel 4a 5G: https://www.ifixit.com/Guide/Google+Pixel+4a+5G+Back+Cover+Replacement/140448
+Battery repair for Google Pixel 4a 5G: https://www.ifixit.com/Guide/Google+Pixel+4a+5G+Battery+Replacement/140489
+Earpiece Speaker repair for Google Pixel 4a 5G: https://www.ifixit.com/Guide/Google+Pixel+4a+5G+Earpiece+Speaker+Replacement/140498
+Fingerprint Sensor repair for Google Pixel 4a 5G: https://www.ifixit.com/Guide/Google+Pixel+4a+5G+Fingerprint+Sensor+Replacement/140494
+Front-Facing Camera repair for Google Pixel 4a 5G: https://www.ifixit.com/Guide/Google+Pixel+4a+5G+Front-Facing+Camera+Replacement/140449
+Headphone Jack repair for Google Pixel 4a 5G: https://www.ifixit.com/Guide/Google+Pixel+4a+5G+Headphone+Jack+Replacement/140451
+Loudspeaker repair for Google Pixel 4a 5G: https://www.ifixit.com/Guide/Google+Pixel+4a+5G+Loudspeaker+Replacement/140450
+Motherboard repair for Google Pixel 4a 5G: https://www.ifixit.com/Guide/Google+Pixel+4a+5G+Motherboard+Replacement/140503
+Rear-Facing Camera repair for Google Pixel 4a 5G: https://www.ifixit.com/Guide/Google+Pixel+4a+5G+Rear-Facing+Camera+Replacement/140495
+SIM Card Tray repair for Google Pixel 4a 5G: https://www.ifixit.com/Guide/Google+Pixel+4a+5G+SIM+card+tray+Replacement/140445
+Screen repair for Google Pixel 4a 5G: https://www.ifixit.com/Guide/Google+Pixel+4a+5G+Screen+Replacement/140444
+USB-C Port repair for Google Pixel 4a 5G: https://www.ifixit.com/Guide/Google+Pixel+4a+5G+USB-C+Port+Replacement/140500
+Vibrator Motor repair for Google Pixel 4a 5G: https://www.ifixit.com/Guide/Google+Pixel+4a+5G+Vibrator+Motor+Replacement/140502
+Back Glass repair for Samsung Galaxy S8: https://www.ifixit.com/Guide/Samsung+Galaxy+S8+Back+Glass+Replacement/89278
+Battery repair for Samsung Galaxy S8: https://www.ifixit.com/Guide/Samsung+Galaxy+S8+Battery+Replacement/90309
+Display Adhesive repair for Samsung Galaxy S8: https://www.ifixit.com/Guide/Samsung+Galaxy+S8+Display+Adhesive+Replacement/122819
+Earpiece Speaker repair for Samsung Galaxy S8: https://www.ifixit.com/Guide/Samsung+Galaxy+S8+Earpiece+Speaker+Replacement/90361
+Fingerprint Sensor repair for Samsung Galaxy S8: https://www.ifixit.com/Guide/Samsung+Galaxy+S8+Fingerprint+Sensor+Replacement/92056
+Front-Facing Camera repair for Samsung Galaxy S8: https://www.ifixit.com/Guide/Samsung+Galaxy+S8+Front-Facing+Camera+Replacement/90352
+Headphone Jack repair for Samsung Galaxy S8: https://www.ifixit.com/Guide/Samsung+Galaxy+S8+Headphone+Jack+Replacement/90333
+I/O Daughterboard repair for Samsung Galaxy S8: https://www.ifixit.com/Guide/Samsung+Galaxy+S8+I-O+Daughterboard+Replacement/90332
+Loudspeaker Assembly repair for Samsung Galaxy S8: https://www.ifixit.com/Guide/Samsung+Galaxy+S8+Loudspeaker+Assembly+Replacement/92076
+Motherboard repair for Samsung Galaxy S8: https://www.ifixit.com/Guide/Samsung+Galaxy+S8+Motherboard+Replacement/90316
+NFC Antenna and Charging Coil Assembly repair for Samsung Galaxy S8: https://www.ifixit.com/Guide/Samsung+Galaxy+S8+NFC+Antenna+and+Charging+Coil+Assembly+Replacement/90357
+Rear Camera Bezel repair for Samsung Galaxy S8: https://www.ifixit.com/Guide/Samsung+Galaxy+S8+Rear+Camera+Bezel+Replacement/122484
+SIM Card Tray repair for Samsung Galaxy S8: https://www.ifixit.com/Guide/Samsung+Galaxy+S8+SIM+Card+Tray+Replacement/90331
+Screen repair for Samsung Galaxy S8: https://www.ifixit.com/Guide/Samsung+Galaxy+S8+Screen+Replacement/92339
+Sensor Array repair for Samsung Galaxy S8: https://www.ifixit.com/Guide/Samsung+Galaxy+S8+Sensor+Array+Replacement/90360
+Vibrator Motor repair for Samsung Galaxy S8: https://www.ifixit.com/Guide/Samsung+Galaxy+S8+Vibrator+Motor+Replacement/90380
+Volume Buttons Cable repair for Samsung Galaxy S8: https://www.ifixit.com/Guide/Samsung+Galaxy+S8+Volume+Buttons+Cable+Replacement/158533
+Battery repair for Samsung Galaxy S8 Active: https://www.ifixit.com/Guide/Samsung+Galaxy+S8+Active+Battery+Replacement/119333
+Camera Glass repair for Samsung Galaxy S8 Active: https://www.ifixit.com/Guide/Samsung+Galaxy+S8+Active+Camera+Glass+Replacement/130754
+Display repair for Samsung Galaxy S8 Active: https://www.ifixit.com/Guide/Samsung+Galaxy+S8+Active+Display+Replacement/119561
+Front-Facing Camera repair for Samsung Galaxy S8 Active: https://www.ifixit.com/Guide/Samsung+Galaxy+S8+Active++Front-Facing+Camera+Replacement/119303
+Headphone Jack repair for Samsung Galaxy S8 Active: https://www.ifixit.com/Guide/Samsung+Galaxy+S8+Active+Headphone+Jack+Replacement/119308
+I/O Daughterboard repair for Samsung Galaxy S8 Active: https://www.ifixit.com/Guide/Samsung+Galaxy+S8+Active+I-O+Daughterboard+Replacement/119332
+Iris Scanner repair for Samsung Galaxy S8 Active: https://www.ifixit.com/Guide/Samsung+Galaxy+S8+Active+Iris+Scanner+Replacement/119282
+Loudspeaker Assembly repair for Samsung Galaxy S8 Active: https://www.ifixit.com/Guide/Samsung+Galaxy+S8+Active+Loudspeaker+Assembly+Replacement/119337
+Motherboard repair for Samsung Galaxy S8 Active: https://www.ifixit.com/Guide/Samsung+Galaxy+S8+Active+Motherboard+Replacement/119305
+NFC Antenna and Charging Coil Assembly repair for Samsung Galaxy S8 Active: https://www.ifixit.com/Guide/Samsung+Galaxy+S8+Active+NFC+Antenna+and+Charging+Coil+Assembly+Replacement/119180
+Rear-Facing Camera repair for Samsung Galaxy S8 Active: https://www.ifixit.com/Guide/Samsung+Galaxy+S8+Active+Rear-Facing+Camera+Replacement/119329
+SIM Tray/Card repair for Samsung Galaxy S8 Active: https://www.ifixit.com/Guide/Samsung+Galaxy+S8+Active+SIM+Tray-Card+Replacement/119178
+Back Glass repair for Samsung Galaxy S8 Plus: https://www.ifixit.com/Guide/Samsung+Galaxy+S8+Plus+Back+Glass+Replacement/93896
+Battery repair for Samsung Galaxy S8 Plus: https://www.ifixit.com/Guide/Samsung+Galaxy+S8++Battery+Replacement/105681
+Camera Glass repair for Samsung Galaxy S8 Plus: https://www.ifixit.com/Guide/Samsung+Galaxy+S8+Plus+Camera+Glass+Replacement/95466
+Charging Port repair for Samsung Galaxy S8 Plus: https://www.ifixit.com/Guide/Samsung+Galaxy+S8+Plus+Charging+Port+Replacement/109793
+Display Adhesive repair for Samsung Galaxy S8 Plus: https://www.ifixit.com/Guide/Samsung+Galaxy+S8+Plus+Display+Adhesive+Replacement/122831
+Display Assembly (With Frame) repair for Samsung Galaxy S8 Plus: https://www.ifixit.com/Guide/Samsung+Galaxy+S8+Plus+Display+Assembly+(With+Frame)+Replacement/108056
+Motherboard repair for Samsung Galaxy S8 Plus: https://www.ifixit.com/Guide/Samsung+Galaxy+S8+Plus+Motherboard+Replacement/110118
+Rear Camera Bezel repair for Samsung Galaxy S8 Plus: https://www.ifixit.com/Guide/Samsung+Galaxy+S8+Plus+Rear+Camera+Bezel+Replacement/123030
+SIM Card or SD Card repair for Samsung Galaxy S8 Plus: https://www.ifixit.com/Guide/Samsung+Galaxy+S8+Plus+SIM+Card+or+SD+Card+Replacement/106461
+Screen repair for Samsung Galaxy S8 Plus: https://www.ifixit.com/Guide/Samsung+Galaxy+S8+Plus+Screen+Replacement/97008
+Battery repair for Samsung Galaxy S9: https://www.ifixit.com/Guide/Samsung+Galaxy+S9+Battery+Replacement/116660
+Charging Port repair for Samsung Galaxy S9: https://www.ifixit.com/Guide/Samsung+Galaxy+S9+Charging+Port+Replacement/119327
+Earpiece Speaker repair for Samsung Galaxy S9: https://www.ifixit.com/Guide/Samsung+Galaxy+S9+Earpiece+Speaker+Replacement/119328
+Headphone Jack repair for Samsung Galaxy S9: https://www.ifixit.com/Guide/Samsung+Galaxy+S9+Headphone+Jack+Replacement/136569
+Midframe assembly repair for Samsung Galaxy S9: https://www.ifixit.com/Guide/Samsung+Galaxy+S9+Midframe+assembly+Replacement/120556
+Motherboard repair for Samsung Galaxy S9: https://www.ifixit.com/Guide/Samsung+Galaxy+S9+Motherboard+Replacement/119296
+NFC Antenna and Charging Coil repair for Samsung Galaxy S9: https://www.ifixit.com/Guide/Samsung+Galaxy+S9+NFC+Antenna+and+Charging+Coil+Replacement/116657
+Rear Camera Bezel with Fingerprint Sensor repair for Samsung Galaxy S9: https://www.ifixit.com/Guide/Samsung+Galaxy+S9+Rear+Camera+Bezel+With+Fingerprint+Sensor+Replacement/124670
+Rear Glass Removal repair for Samsung Galaxy S9: https://www.ifixit.com/Guide/Samsung+Galaxy+S9+Rear+Glass+Removal/116363
+Rear-Facing Camera repair for Samsung Galaxy S9: https://www.ifixit.com/Guide/Samsung+Galaxy+S9+Rear-Facing+Camera+Replacement/119319
+SIM Card or MicroSD Card repair for Samsung Galaxy S9: https://www.ifixit.com/Guide/Samsung+Galaxy+S9+SIM+Card+or+MicroSD+Card+Replacement/111135
+Screen repair for Samsung Galaxy S9: https://www.ifixit.com/Guide/Samsung+Galaxy+S9+Display+Replacement/116670
+Battery repair for Samsung Galaxy S9+: https://www.ifixit.com/Guide/Samsung+Galaxy+S9+Plus+Battery+Replacement/117082
+Display repair for Samsung Galaxy S9+: https://www.ifixit.com/Guide/Samsung+Galaxy+S9+Plus+Display+Replacement/117092
+Fingerprint Sensor and Camera Lens Cover repair for Samsung Galaxy S9+: https://www.ifixit.com/Guide/Samsung+Galaxy+S9+Plus+Fingerprint+Sensor+and+Camera+Lens+Cover+Replacement/124696
+Front-Facing Camera repair for Samsung Galaxy S9+: https://www.ifixit.com/Guide/Samsung+Galaxy+S9+Plus+Front-Facing+Camera+Replacement/136892
+Headphone Jack repair for Samsung Galaxy S9+: https://www.ifixit.com/Guide/Samsung+Galaxy+S9+Plus+Headphone+Jack+Replacement/136563
+NFC Antenna and Charging Coil repair for Samsung Galaxy S9+: https://www.ifixit.com/Guide/Samsung+Galaxy+S9+Plus+NFC+Antenna+and+Charging+Coil+Replacement/117078
+Rear Camera repair for Samsung Galaxy S9+: https://www.ifixit.com/Guide/Samsung+Galaxy+S9+Plus+Rear+Camera+Replacement/137066
+Rear Glass Removal repair for Samsung Galaxy S9+: https://www.ifixit.com/Guide/Samsung+Galaxy+S9+Plus+Rear+Glass+Removal/116779
+USB-C Charging Port repair for Samsung Galaxy S9+: https://www.ifixit.com/Guide/Samsung+Galaxy+S9+Plus+USB-C+Charging+Port+Replacement/136890
+Back Cover repair for Samsung Galaxy S10: https://www.ifixit.com/Guide/Samsung+Galaxy+S10+Back+Cover+Replacement/121814
+Battery repair for Samsung Galaxy S10: https://www.ifixit.com/Guide/Samsung+Galaxy+S10+Battery+Replacement/121826
+Display  Assembly repair for Samsung Galaxy S10: https://www.ifixit.com/Guide/Samsung+Galaxy+S10+Display++Assembly+Replacement/133034
+Front-Facing Camera repair for Samsung Galaxy S10: https://www.ifixit.com/Guide/Samsung+Galaxy+S10+Front-Facing+Camera+Replacement/121819
+Loudspeaker repair for Samsung Galaxy S10: https://www.ifixit.com/Guide/Samsung+Galaxy+S10+Loudspeaker+Replacement/121820
+Motherboard repair for Samsung Galaxy S10: https://www.ifixit.com/Guide/Samsung+Galaxy+S10+Motherboard+Replacement/121821
+Rear-Facing Camera Module repair for Samsung Galaxy S10: https://www.ifixit.com/Guide/Samsung+Galaxy+S10+Rear-Facing+Camera+Module+Replacement/121825
+SIM Card repair for Samsung Galaxy S10: https://www.ifixit.com/Guide/Samsung+Galaxy+S10+SIM+Card+Replacement/121812
+Screen repair for Samsung Galaxy S10: https://www.ifixit.com/Guide/Samsung+Galaxy+S10+Screen+Replacement/129775
+Back Cover repair for Samsung Galaxy S10+: https://www.ifixit.com/Guide/Samsung+Galaxy+S10++Back+Cover+Replacement/120596
+Battery repair for Samsung Galaxy S10+: https://www.ifixit.com/Guide/Samsung+Galaxy+S10++Battery+Replacement/120691
+Front-Facing Camera Module repair for Samsung Galaxy S10+: https://www.ifixit.com/Guide/Samsung+Galaxy+S10++Front-Facing+Camera+Module+Replacement/120872
+Loudspeaker repair for Samsung Galaxy S10+: https://www.ifixit.com/Guide/Samsung+Galaxy+S10++Loudspeaker+Replacement/120873
+Motherboard repair for Samsung Galaxy S10+: https://www.ifixit.com/Guide/Samsung+Galaxy+S10+Plus+Motherboard+Replacement/122233
+Power Integrated Circuit (IC) repair for Samsung Galaxy S10+: https://www.ifixit.com/Guide/How+to+Fix+a+Samsung+Galaxy+S10+Plus+That+Does+Not+Turn+On-Power+On/143868
+Rear-Facing Camera Module repair for Samsung Galaxy S10+: https://www.ifixit.com/Guide/Samsung+Galaxy+S10++Rear-Facing+Camera+Module+Replacement/120870
+SIM/MicroSD Card repair for Samsung Galaxy S10+: https://www.ifixit.com/Guide/Samsung+Galaxy+S10++SIM-MicroSD+Card+Replacement/120594
+Screen repair for Samsung Galaxy S10+: https://www.ifixit.com/Guide/Samsung+Galaxy+S10++Screen+Replacement/136889
+Back Cover repair for Samsung Galaxy S10e: https://www.ifixit.com/Guide/Samsung+Galaxy+S10e+Back+Cover+Replacement/121176
+Battery repair for Samsung Galaxy S10e: https://www.ifixit.com/Guide/Samsung+Galaxy+S10e+Battery+Replacement/121285
+Dual Rear Camera repair for Samsung Galaxy S10e: https://www.ifixit.com/Guide/Samsung+Galaxy+S10e+Dual+Rear+Camera+Replacement/143674
+Fingerprint Sensor repair for Samsung Galaxy S10e: https://www.ifixit.com/Guide/Samsung+Galaxy+S10e+Fingerprint+Sensor+Replacement/143712
+Front Camera repair for Samsung Galaxy S10e: https://www.ifixit.com/Guide/Samsung+Galaxy+S10e+Front+Camera+Replacement/143676
+Headphone Jack repair for Samsung Galaxy S10e: https://www.ifixit.com/Guide/Samsung+Galaxy+S10e+Headphone+Jack+Replacement/143675
+Loudspeaker repair for Samsung Galaxy S10e: https://www.ifixit.com/Guide/Samsung+Galaxy+S10e+Loudspeaker+Replacement/143703
+Motherboard repair for Samsung Galaxy S10e: https://www.ifixit.com/Guide/Samsung+Galaxy+S10e+Motherboard+Replacement/143708
+SIM/Micro SD Card Tray repair for Samsung Galaxy S10e: https://www.ifixit.com/Guide/Samsung+Galaxy+S10e+SIM-Micro+SD+Card+Tray+Replacement/143684
+Screen repair for Samsung Galaxy S10e: https://www.ifixit.com/Guide/Samsung+Galaxy+S10e+Screen+Replacement/128193
+Wireless Charging Coil repair for Samsung Galaxy S10e: https://www.ifixit.com/Guide/Samsung+Galaxy+S10e+Wireless+Charging+Coil+Replacement/143677
+Samsung Galaxy Phone Battery Draining Fast repair for Samsung Galaxy S10 5G: https://www.ifixit.com/Troubleshooting/Samsung_Android_Phone/Samsung+Galaxy+Battery+Draining+Fast/481151
+Samsung Galaxy Not Charging repair for Samsung Galaxy S10 5G: https://www.ifixit.com/Troubleshooting/Samsung_Android_Phone/Not+Charging/562997
+Samsung Phone Lines on Screen repair for Samsung Galaxy S10 5G: https://www.ifixit.com/Troubleshooting/Samsung_Android_Phone/Lines+on+Screen/564686
+Samsung Galaxy Phone Not Turning On repair for Samsung Galaxy S10 5G: https://www.ifixit.com/Troubleshooting/Samsung_Android_Phone/Not+Turning+On/565281
+Samsung Phone Moisture Detected in Charging Port repair for Samsung Galaxy S10 5G: https://www.ifixit.com/Troubleshooting/Samsung_Android_Phone/Moisture+Detected+in+Charging+Port/560653
+Samsung Galaxy Phone Black Screen repair for Samsung Galaxy S10 5G: https://www.ifixit.com/Troubleshooting/Samsung_Android_Phone/Black+Screen/575271
+Camera glass repair for Samsung Galaxy S10 Lite: https://www.ifixit.com/Guide/Samsung+Galaxy+S10+Lite+Camera+glass+Replacement/156930
+Display Assembly repair for Samsung Galaxy S20 FE: https://www.ifixit.com/Guide/Samsung+Galaxy+S20+FE+(SM-G780F)+Display+Assembly+Replacement/143692
+Samsung Galaxy Phone Battery Draining Fast repair for Samsung Galaxy S20 FE 5G: https://www.ifixit.com/Troubleshooting/Samsung_Android_Phone/Samsung+Galaxy+Battery+Draining+Fast/481151
+Samsung Galaxy Not Charging repair for Samsung Galaxy S20 FE 5G: https://www.ifixit.com/Troubleshooting/Samsung_Android_Phone/Not+Charging/562997
+Samsung Phone Lines on Screen repair for Samsung Galaxy S20 FE 5G: https://www.ifixit.com/Troubleshooting/Samsung_Android_Phone/Lines+on+Screen/564686
+Samsung Galaxy Phone Not Turning On repair for Samsung Galaxy S20 FE 5G: https://www.ifixit.com/Troubleshooting/Samsung_Android_Phone/Not+Turning+On/565281
+Samsung Phone Moisture Detected in Charging Port repair for Samsung Galaxy S20 FE 5G: https://www.ifixit.com/Troubleshooting/Samsung_Android_Phone/Moisture+Detected+in+Charging+Port/560653
+Samsung Galaxy Phone Black Screen repair for Samsung Galaxy S20 FE 5G: https://www.ifixit.com/Troubleshooting/Samsung_Android_Phone/Black+Screen/575271
+Back Cover repair for Samsung Galaxy S20: https://www.ifixit.com/Guide/Samsung+Galaxy+S20+Back+Cover+Replacement/132828
+Battery repair for Samsung Galaxy S20: https://www.ifixit.com/Guide/Samsung+Galaxy+S20+Battery+Replacement/132827
+Camera Lens repair for Samsung Galaxy S20: https://www.ifixit.com/Guide/Galaxy+S20+Camera+Lens+Replacement/139345
+Earpiece Speaker repair for Samsung Galaxy S20: https://www.ifixit.com/Guide/Samsung+Galaxy+S20+Earpiece+Speaker+Replacement/136954
+Front-Facing Camera Module repair for Samsung Galaxy S20: https://www.ifixit.com/Guide/Samsung+Galaxy+S20+Front-Facing+Camera+Module+Replacement/136956
+Loudspeaker repair for Samsung Galaxy S20: https://www.ifixit.com/Guide/Galaxy+S20+Loudspeaker+Replacement/136937
+Motherboard repair for Samsung Galaxy S20: https://www.ifixit.com/Guide/Samsung+Galaxy+S20+Motherboard+Replacement/136953
+Rear-Facing Camera Module repair for Samsung Galaxy S20: https://www.ifixit.com/Guide/Samsung+Galaxy+S20+Rear-Facing+Camera+Module+Replacement/136951
+SIM/MicroSD Card Tray repair for Samsung Galaxy S20: https://www.ifixit.com/Guide/Galaxy+S20+SIM-MicroSD+Card+Tray+Replacement/136928
+Screen repair for Samsung Galaxy S20: https://www.ifixit.com/Guide/Samsung+Galaxy+S20+Screen+Replacement/138829
+Screen and Battery Assembly repair for Samsung Galaxy S20: https://www.ifixit.com/Guide/Galaxy+S20+Screen+and+Battery+Assembly+Replacement/151701
+USB-C Charging Port and Daughterboard repair for Samsung Galaxy S20: https://www.ifixit.com/Guide/Galaxy+S20+USB-C+Charging+Port+and+Daughterboard+Replacement/151721
+Wireless Charging Coil repair for Samsung Galaxy S20: https://www.ifixit.com/Guide/Galaxy+S20+Wireless+Charging+Coil+Replacement/136932
+Back Cover repair for Samsung Galaxy S20+: https://www.ifixit.com/Guide/Samsung+Galaxy+S20++Back+Cover+Replacement/136341
+Battery repair for Samsung Galaxy S20+: https://www.ifixit.com/Guide/Samsung+Galaxy+S20+Plus+Battery+Replacement/136348
+Earpiece Speaker repair for Samsung Galaxy S20+: https://www.ifixit.com/Guide/Samsung+Galaxy+S20+Plus+Earpiece+Speaker+Replacement/136354
+Front-Facing Camera Module repair for Samsung Galaxy S20+: https://www.ifixit.com/Guide/Samsung+Galaxy+S20+Plus+Front-Facing+Camera+Module+Replacement/136357
+Loudspeaker repair for Samsung Galaxy S20+: https://www.ifixit.com/Guide/Samsung+Galaxy+S20+Plus+Loudspeaker+Replacement/136344
+Motherboard repair for Samsung Galaxy S20+: https://www.ifixit.com/Guide/Samsung+Galaxy+S20+Plus+Motherboard+Replacement/136353
+Rear-Facing Camera Module repair for Samsung Galaxy S20+: https://www.ifixit.com/Guide/Samsung+Galaxy+S20+Plus+Rear-Facing+Camera+Module+Replacement/136352
+SIM/MicroSD Card Tray repair for Samsung Galaxy S20+: https://www.ifixit.com/Guide/Samsung+Galaxy+S20+Plus+SIM-MicroSD+Card+Tray+Replacement/136339
+Screen repair for Samsung Galaxy S20+: https://www.ifixit.com/Guide/Samsung+Galaxy+S20+Plus+Screen+Replacement/133913
+Screen and Battery Assembly repair for Samsung Galaxy S20+: https://www.ifixit.com/Guide/Samsung+Galaxy+S20++Screen+and+Battery+Assembly+Replacement/151705
+USB-C Charging Port and Daughterboard repair for Samsung Galaxy S20+: https://www.ifixit.com/Guide/Samsung+Galaxy+S20++USB-C+Charging+Port+and+Daughterboard+Replacement/151723
+USB-C Port and Daughterboard repair for Samsung Galaxy S20+: https://www.ifixit.com/Guide/Samsung+Galaxy+S20+Plus+USB-C+Port+and+Daughterboard+Replacement/136356
+Wireless Charging Coil repair for Samsung Galaxy S20+: https://www.ifixit.com/Guide/Samsung+Galaxy+S20+Plus+Wireless+Charging+Coil+Replacement/136343
+Back Cover repair for Samsung Galaxy S20 Ultra: https://www.ifixit.com/Guide/Samsung+Galaxy+S20+Ultra+Back+Cover+Replacement/135436
+Battery repair for Samsung Galaxy S20 Ultra: https://www.ifixit.com/Guide/Samsung+Galaxy+S20+Ultra+Battery+Replacement/135441
+Earpiece Speaker repair for Samsung Galaxy S20 Ultra: https://www.ifixit.com/Guide/Samsung+Galaxy+S20+Ultra+Earpiece+Speaker+Replacement/135446
+Front-Facing Camera Module repair for Samsung Galaxy S20 Ultra: https://www.ifixit.com/Guide/Samsung+Galaxy+S20+Ultra+Front-Facing+Camera+Module+Replacement/135447
+Loudspeaker repair for Samsung Galaxy S20 Ultra: https://www.ifixit.com/Guide/Samsung+Galaxy+S20+Ultra+Loudspeaker+Replacement/135439
+Motherboard repair for Samsung Galaxy S20 Ultra: https://www.ifixit.com/Guide/Samsung+Galaxy+S20+Ultra+Motherboard+Replacement/135444
+Rear-Facing Camera Module repair for Samsung Galaxy S20 Ultra: https://www.ifixit.com/Guide/Samsung+Galaxy+S20+Ultra+Rear-Facing+Camera+Module++Replacement/135445
+SIM/MicroSD Card Tray repair for Samsung Galaxy S20 Ultra: https://www.ifixit.com/Guide/Samsung+Galaxy+S20+Ultra+SIM-MicroSD+Card+Tray+Replacement/135434
+Screen repair for Samsung Galaxy S20 Ultra: https://www.ifixit.com/Guide/Samsung+Galaxy+S20+Ultra+Screen+Replacement/139909
+Screen and Battery Assembly repair for Samsung Galaxy S20 Ultra: https://www.ifixit.com/Guide/Samsung+Galaxy+S20+Ultra+Screen+and+Battery+Assembly+Replacement/151707
+USB-C Charging Port and Daughterboard repair for Samsung Galaxy S20 Ultra: https://www.ifixit.com/Guide/Samsung+Galaxy+S20+Ultra+USB-C+Charging+Port+and+Daughterboard+Replacement/151725
+USB-C Port and Daughterboard repair for Samsung Galaxy S20 Ultra: https://www.ifixit.com/Guide/Samsung+Galaxy+S20+Ultra+USB-C+Port+and+Daughterboard+Replacement/135448
+Wireless Charging Coil repair for Samsung Galaxy S20 Ultra: https://www.ifixit.com/Guide/Samsung+Galaxy+S20+Ultra+Wireless+Charging+Coil+Replacement/135437
+5G Antenna repair for Samsung Galaxy S21 5G: https://www.ifixit.com/Guide/Samsung+Galaxy+S21+5G+Antenna+Replacement/148692
+Back Cover repair for Samsung Galaxy S21 5G: https://www.ifixit.com/Guide/Samsung+Galaxy+S21+Back+Cover+Replacement/148649
+Battery repair for Samsung Galaxy S21 5G: https://www.ifixit.com/Guide/Samsung+Galaxy+S21+Battery+Replacement/148741
+Daughterboard repair for Samsung Galaxy S21 5G: https://www.ifixit.com/Guide/Samsung+Galaxy+S21+Daughterboard+Replacement/148688
+Earpiece Speaker repair for Samsung Galaxy S21 5G: https://www.ifixit.com/Guide/Samsung+Galaxy+S21+Earpiece+Speaker+Replacement/148693
+Front Camera repair for Samsung Galaxy S21 5G: https://www.ifixit.com/Guide/Samsung+Galaxy+S21+Front+Camera+Replacement/148726
+Loudspeaker repair for Samsung Galaxy S21 5G: https://www.ifixit.com/Guide/Samsung+Galaxy+S21+Loudspeaker+Replacement/148687
+Motherboard repair for Samsung Galaxy S21 5G: https://www.ifixit.com/Guide/Samsung+Galaxy+S21+Motherboard+Replacement/148811
+Primary Interconnect Cable repair for Samsung Galaxy S21 5G: https://www.ifixit.com/Guide/Samsung+Galaxy+S21+Primary+Interconnect+Cable+Replacement/148744
+Rear Camera repair for Samsung Galaxy S21 5G: https://www.ifixit.com/Guide/Samsung+Galaxy+S21+Rear+Camera+Replacement/148779
+SIM Card repair for Samsung Galaxy S21 5G: https://www.ifixit.com/Guide/Samsung+Galaxy+S21+SIM+Card+Replacement/148658
+Screen repair for Samsung Galaxy S21 5G: https://www.ifixit.com/Guide/Samsung+Galaxy+S21+Screen+Replacement/148742
+Screen Protector repair for Samsung Galaxy S21 5G: https://www.ifixit.com/Guide/Samsung+Galaxy+S21+Screen+Protector+Replacement/170780
+Screen and Battery Assembly repair for Samsung Galaxy S21 5G: https://www.ifixit.com/Guide/Samsung+Galaxy+S21+Screen+and+Battery+Assembly+Replacement/148783
+Secondary Interconnect Cable repair for Samsung Galaxy S21 5G: https://www.ifixit.com/Guide/Samsung+Galaxy+S21+Secondary+Interconnect+Cable+Replacement/148743
+USB-C Charging Port and Daughterboard repair for Samsung Galaxy S21 5G: https://www.ifixit.com/Guide/Samsung+Galaxy+S21+USB-C+Charging+Port+and+Daughterboard+Replacement/151727
+Vibrator repair for Samsung Galaxy S21 5G: https://www.ifixit.com/Guide/Samsung+Galaxy+S21+Vibrator+Replacement/148724
+Wireless Charging Coil repair for Samsung Galaxy S21 5G: https://www.ifixit.com/Guide/Samsung+Galaxy+S21+Wireless+Charging+Coil+Replacement/148672
+Samsung Galaxy Phone Battery Draining Fast repair for Samsung Galaxy S21 FE: https://www.ifixit.com/Troubleshooting/Samsung_Android_Phone/Samsung+Galaxy+Battery+Draining+Fast/481151
+Samsung Galaxy Not Charging repair for Samsung Galaxy S21 FE: https://www.ifixit.com/Troubleshooting/Samsung_Android_Phone/Not+Charging/562997
+Samsung Phone Lines on Screen repair for Samsung Galaxy S21 FE: https://www.ifixit.com/Troubleshooting/Samsung_Android_Phone/Lines+on+Screen/564686
+Samsung Galaxy Phone Not Turning On repair for Samsung Galaxy S21 FE: https://www.ifixit.com/Troubleshooting/Samsung_Android_Phone/Not+Turning+On/565281
+Samsung Phone Moisture Detected in Charging Port repair for Samsung Galaxy S21 FE: https://www.ifixit.com/Troubleshooting/Samsung_Android_Phone/Moisture+Detected+in+Charging+Port/560653
+Samsung Galaxy Phone Black Screen repair for Samsung Galaxy S21 FE: https://www.ifixit.com/Troubleshooting/Samsung_Android_Phone/Black+Screen/575271
+Back Cover repair for Samsung Galaxy S21+: https://www.ifixit.com/Guide/Samsung+Galaxy+S21++Back+Cover+Replacement/148564
+Battery repair for Samsung Galaxy S21+: https://www.ifixit.com/Guide/Samsung+Galaxy+S21+Plus+Battery+Replacement/148576
+Charging Board repair for Samsung Galaxy S21+: https://www.ifixit.com/Guide/Samsung+Galaxy+S21+Plus+Charging+Board+Replacement/149373
+Display Cable repair for Samsung Galaxy S21+: https://www.ifixit.com/Guide/Samsung+Galaxy+S21+Plus+Display+Cable+Replacement/148662
+Earpiece Speaker repair for Samsung Galaxy S21+: https://www.ifixit.com/Guide/Samsung+Galaxy+S21+Plus+Earpiece+Speaker+Replacement/149364
+Front-Facing Camera repair for Samsung Galaxy S21+: https://www.ifixit.com/Guide/Samsung+Galaxy+S21+Plus+Front-Facing+Camera+Replacement/149366
+Interconnect Cables repair for Samsung Galaxy S21+: https://www.ifixit.com/Guide/How+to+Remove+the+Interconnect+Cables+in+the+Samsung+Galaxy+S21+Plus/148664
+Loudspeaker repair for Samsung Galaxy S21+: https://www.ifixit.com/Guide/Samsung+Galaxy+S21+Plus+Loudspeaker+Replacement/148577
+Motherboard repair for Samsung Galaxy S21+: https://www.ifixit.com/Guide/Samsung+Galaxy+S21+Plus+Motherboard+Replacement/149370
+NFC Antenna & Charging Coil Assembly repair for Samsung Galaxy S21+: https://www.ifixit.com/Guide/Samsung+Galaxy+S21+Plus+NFC+Antenna+&+Charging+Coil+Assembly+Replacement/148565
+Rear Camera repair for Samsung Galaxy S21+: https://www.ifixit.com/Guide/Samsung+Galaxy+S21+Plus+Rear+Camera+Replacement/149371
+SIM Card Tray repair for Samsung Galaxy S21+: https://www.ifixit.com/Guide/Samsung+Galaxy+S21+Plus+SIM+Card+Tray+Replacement/151996
+Screen repair for Samsung Galaxy S21+: https://www.ifixit.com/Guide/Samsung+Galaxy+S21+Plus+Screen+Replacement/148566
+Screen and Battery Assembly repair for Samsung Galaxy S21+: https://www.ifixit.com/Guide/Samsung+Galaxy+S21+Plus+Screen+and+Battery+Assembly+Replacement/151731
+USB-C Charging Port and Daughterboard repair for Samsung Galaxy S21+: https://www.ifixit.com/Guide/Samsung+Galaxy+S21++USB-C+Charging+Port+and+Daughterboard+Replacement/151732
+Vibration Motor repair for Samsung Galaxy S21+: https://www.ifixit.com/Guide/Samsung+Galaxy+S21+Plus+Vibration+Motor+Replacement/149372
+Back Cover repair for Samsung Galaxy S21 Ultra: https://www.ifixit.com/Guide/Samsung+Galaxy+S21+Ultra+Back+Cover+Replacement/148245
+Battery repair for Samsung Galaxy S21 Ultra: https://www.ifixit.com/Guide/Samsung+Galaxy+S21+Ultra+Battery+Replacement/148256
+Charging Board repair for Samsung Galaxy S21 Ultra: https://www.ifixit.com/Guide/Samsung+Galaxy+S21+Ultra+Charging+Board+Replacement/149529
+Earpiece Speaker repair for Samsung Galaxy S21 Ultra: https://www.ifixit.com/Guide/Samsung+Galaxy+S21+Ultra+Earpiece+Speaker+Replacement/149517
+Front-Facing Camera repair for Samsung Galaxy S21 Ultra: https://www.ifixit.com/Guide/Samsung+Galaxy+S21+Ultra+Front+Facing+Camera+Replacement/149527
+Interconnect Cables repair for Samsung Galaxy S21 Ultra: https://www.ifixit.com/Guide/How+to+Remove+the+Interconnect+Cables+in+the+Samsung+Galaxy+S21+Ultra/148255
+Laser AF module repair for Samsung Galaxy S21 Ultra: https://www.ifixit.com/Guide/Samsung+Galaxy+S21+Ultra+Laser+AF+module+Replacement/149518
+Loudspeaker repair for Samsung Galaxy S21 Ultra: https://www.ifixit.com/Guide/Samsung+Galaxy+S21+Ultra+Loudspeaker+Replacement/148254
+Motherboard repair for Samsung Galaxy S21 Ultra: https://www.ifixit.com/Guide/Samsung+Galaxy+S21+Ultra+Motherboard+Replacement/149716
+NFC Antenna & Charging Coil Assembly repair for Samsung Galaxy S21 Ultra: https://www.ifixit.com/Guide/Samsung+Galaxy+S21+Ultra+NFC+Antenna+&+Charging+Coil+Assembly+Replacement/148252
+Rear Camera repair for Samsung Galaxy S21 Ultra: https://www.ifixit.com/Guide/Samsung+Galaxy+S21+Ultra+Rear+Camera+Replacement/149717
+SIM Card repair for Samsung Galaxy S21 Ultra: https://www.ifixit.com/Guide/Samsung+Galaxy+S21+Ultra+SIM+Card+Replacement/151889
+Screen repair for Samsung Galaxy S21 Ultra: https://www.ifixit.com/Guide/Samsung+Galaxy+S21+Ultra+Screen+Replacement/148258
+Screen and Battery Assembly repair for Samsung Galaxy S21 Ultra: https://www.ifixit.com/Guide/Samsung+Galaxy+S21+Ultra+Screen+and+Battery+Assembly+Replacement/148327
+USB-C Charging Port and Daughterboard repair for Samsung Galaxy S21 Ultra: https://www.ifixit.com/Guide/Samsung+Galaxy+S21+Ultra+USB-C+Charging+Port+and+Daughterboard+Replacement/151741
+Vibration Motor repair for Samsung Galaxy S21 Ultra: https://www.ifixit.com/Guide/Samsung+Galaxy+S21+Ultra+Vibration+Motor+Replacement/149715
+Back Cover repair for Samsung Galaxy S22: https://www.ifixit.com/Guide/Samsung+Galaxy+S22+Back+Cover+Replacement/155378
+Battery repair for Samsung Galaxy S22: https://www.ifixit.com/Guide/Samsung+Galaxy+S22+Battery+Replacement/163932
+Earpiece Speaker repair for Samsung Galaxy S22: https://www.ifixit.com/Guide/Samsung+Galaxy+S22+Earpiece+Speaker+Replacement/155628
+SIM Tray repair for Samsung Galaxy S22: https://www.ifixit.com/Guide/Samsung+Galaxy+S22+SIM+Card+Tray+Replacement/155621
+Screen and Battery Assembly repair for Samsung Galaxy S22: https://www.ifixit.com/Guide/Samsung+Galaxy+S22+Screen+and+Battery+Assembly+Replacement/155379
+USB-C Port and Charging Board repair for Samsung Galaxy S22: https://www.ifixit.com/Guide/Samsung+Galaxy+S22+USB-C+Port+and+Charging+Board+Replacement/155381
+Back Cover repair for Samsung Galaxy S22+: https://www.ifixit.com/Guide/Samsung+Galaxy+S22+Plus+Back+Cover+Replacement/155113
+Battery repair for Samsung Galaxy S22+: https://www.ifixit.com/Guide/Samsung+Galaxy+S22++Battery+Replacement/163953
+SIM Card Tray repair for Samsung Galaxy S22+: https://www.ifixit.com/Guide/Samsung+Galaxy+S22+Plus+SIM+Card+Tray+Replacement/155111
+Screen and Battery Assembly repair for Samsung Galaxy S22+: https://www.ifixit.com/Guide/Samsung+Galaxy+S22+Plus+Screen+and+Battery+Assembly+Replacement/155215
+USB-C Port and Charging Board repair for Samsung Galaxy S22+: https://www.ifixit.com/Guide/Samsung+Galaxy+S22+Plus+USB-C+Port+and+Charging+Board+Replacement/155212
+Back Cover repair for Samsung Galaxy S22 Ultra: https://www.ifixit.com/Guide/Samsung+Galaxy+S22+Ultra+Back+Cover+Replacement/155109
+Battery repair for Samsung Galaxy S22 Ultra: https://www.ifixit.com/Guide/Samsung+Galaxy+S22+Ultra+Battery+Replacement/163948
+Earpiece Speaker & Vibration Motor repair for Samsung Galaxy S22 Ultra: https://www.ifixit.com/Guide/Samsung+Galaxy+S22+Ultra+Earpiece+Speaker+&+Vibration+Motor+Replacement/155139
+SIM Tray repair for Samsung Galaxy S22 Ultra: https://www.ifixit.com/Guide/Samsung+Galaxy+S22+Ultra+SIM+Tray+Replacement/155107
+Screen and Battery Assembly repair for Samsung Galaxy S22 Ultra: https://www.ifixit.com/Guide/Samsung+Galaxy+S22+Ultra+Screen+and+Battery+Assembly+Replacement/155140
+Stylus repair for Samsung Galaxy S22 Ultra: https://www.ifixit.com/Guide/Samsung+Galaxy+S22+Ultra+Stylus+Replacement/155108
+USB-C Port and Charging Board repair for Samsung Galaxy S22 Ultra: https://www.ifixit.com/Guide/Samsung+Galaxy+S22+Ultra+USB-C+Port+and+Charging+Board+Replacement/155136
+Back Cover repair for Samsung Galaxy S23: https://www.ifixit.com/Guide/Samsung+Galaxy+S23+Back+Cover+Replacement/173900
+Battery repair for Samsung Galaxy S23: https://www.ifixit.com/Guide/Samsung+Galaxy+S23+Battery+Replacement/174225
+Earpiece Speaker repair for Samsung Galaxy S23: https://www.ifixit.com/Guide/Samsung+Galaxy+S23+Earpiece+Speaker+Replacement/173908
+Front Camera repair for Samsung Galaxy S23: https://www.ifixit.com/Guide/Samsung+Galaxy+S23+Front+Camera+Replacement/174251
+Motherboard repair for Samsung Galaxy S23: https://www.ifixit.com/Guide/Samsung+Galaxy+S23+Motherboard+Replacement/174230
+Rear Cameras repair for Samsung Galaxy S23: https://www.ifixit.com/Guide/Samsung+Galaxy+S23+Rear+Cameras+Replacement/174228
+SIM Card Tray repair for Samsung Galaxy S23: https://www.ifixit.com/Guide/Samsung+Galaxy+S23+SIM+Card+Tray+Replacement/173898
+Screen repair for Samsung Galaxy S23: https://www.ifixit.com/Guide/Samsung+Galaxy+S23+Screen+Replacement/175309
+Screen and Battery Assembly repair for Samsung Galaxy S23: https://www.ifixit.com/Guide/Samsung+Galaxy+S23+Screen+and+Battery+Assembly+Replacement/174021
+USB-C Port and Daughterboard repair for Samsung Galaxy S23: https://www.ifixit.com/Guide/Samsung+Galaxy+S23+USB-C+Port+and+Daughterboard+Replacement/173907
+Samsung Galaxy Phone Battery Draining Fast repair for Samsung Galaxy S23 FE: https://www.ifixit.com/Troubleshooting/Samsung_Android_Phone/Samsung+Galaxy+Battery+Draining+Fast/481151
+Samsung Galaxy Not Charging repair for Samsung Galaxy S23 FE: https://www.ifixit.com/Troubleshooting/Samsung_Android_Phone/Not+Charging/562997
+Samsung Phone Lines on Screen repair for Samsung Galaxy S23 FE: https://www.ifixit.com/Troubleshooting/Samsung_Android_Phone/Lines+on+Screen/564686
+Samsung Galaxy Phone Not Turning On repair for Samsung Galaxy S23 FE: https://www.ifixit.com/Troubleshooting/Samsung_Android_Phone/Not+Turning+On/565281
+Samsung Phone Moisture Detected in Charging Port repair for Samsung Galaxy S23 FE: https://www.ifixit.com/Troubleshooting/Samsung_Android_Phone/Moisture+Detected+in+Charging+Port/560653
+Samsung Galaxy Phone Black Screen repair for Samsung Galaxy S23 FE: https://www.ifixit.com/Troubleshooting/Samsung_Android_Phone/Black+Screen/575271
+Back Cover repair for Samsung Galaxy S23+: https://www.ifixit.com/Guide/Samsung+Galaxy+S23+Plus+Back+Cover+Replacement/176389
+Battery repair for Samsung Galaxy S23+: https://www.ifixit.com/Guide/Samsung+Galaxy+S23+Plus+Battery+Replacement/177885
+Earpiece Speaker repair for Samsung Galaxy S23+: https://www.ifixit.com/Guide/Samsung+Galaxy+S23+Plus+Earpiece+Speaker+Replacement/177887
+Front Camera repair for Samsung Galaxy S23+: https://www.ifixit.com/Guide/Samsung+Galaxy+S23+Plus+Front+Camera+Replacement/177888
+Motherboard repair for Samsung Galaxy S23+: https://www.ifixit.com/Guide/Samsung+Galaxy+S23+Plus+Motherboard+Replacement/177890
+Rear Cameras repair for Samsung Galaxy S23+: https://www.ifixit.com/Guide/Samsung+Galaxy+S23+Plus+Rear+Cameras+Replacement/177892
+SIM Card Tray repair for Samsung Galaxy S23+: https://www.ifixit.com/Guide/Samsung+Galaxy+S23+Plus+SIM+Card+Tray+Replacement/176388
+Screen repair for Samsung Galaxy S23+: https://www.ifixit.com/Guide/Samsung+Galaxy+S23+Plus+Screen+Replacement/176656
+Screen and Battery Assembly repair for Samsung Galaxy S23+: https://www.ifixit.com/Guide/Samsung+Galaxy+S23+Plus+Screen+and+Battery+Assembly+Replacement/177894
+USB-C Port and Daughterboard repair for Samsung Galaxy S23+: https://www.ifixit.com/Guide/Samsung+Galaxy+S23+Plus+USB-C+Port+and+Daughterboard+Replacement/177895
+Back Cover repair for Samsung Galaxy S23 Ultra: https://www.ifixit.com/Guide/Samsung+Galaxy+S23+Ultra+Back+Cover+Replacement/161195
+Battery repair for Samsung Galaxy S23 Ultra: https://www.ifixit.com/Guide/Galaxy+S23+Ultra+Battery+Replacement/173949
+SIM Tray repair for Samsung Galaxy S23 Ultra: https://www.ifixit.com/Guide/Samsung+Galaxy+S23+Ultra+SIM+Tray+Replacement/161198
+Screen repair for Samsung Galaxy S23 Ultra: https://www.ifixit.com/Guide/Galaxy+S23+Ultra+Screen+Replacement/173953
+Screen and Battery Assembly repair for Samsung Galaxy S23 Ultra: https://www.ifixit.com/Guide/Samsung+Galaxy+S23+Ultra+Screen+and+Battery+Assembly+Replacement/161196
+Stylus repair for Samsung Galaxy S23 Ultra: https://www.ifixit.com/Guide/Samsung+Galaxy+S23+Ultra+Stylus+Replacement/161199
+USB-C Port and Charging Board repair for Samsung Galaxy S23 Ultra: https://www.ifixit.com/Guide/Samsung+Galaxy+S23+Ultra+USB-C+Port+and+Charging+Board+Replacement/161197
+Back Glass repair for iPhone 15 Pro Max: https://www.ifixit.com/Guide/iPhone+15+Pro+Max+Back+Glass+Replacement/166226
+Battery repair for iPhone 15 Pro Max: https://www.ifixit.com/Guide/iPhone+15+Pro+Max+Battery+Replacement/166239
+Earpiece Speaker repair for iPhone 15 Pro Max: https://www.ifixit.com/Guide/iPhone+15+Pro+Max+Earpiece+Speaker+Replacement/166238
+Front Camera Assembly repair for iPhone 15 Pro Max: https://www.ifixit.com/Guide/iPhone+15+Pro+Max+Front+Camera+Assembly+Replacement/166240
+Loudspeaker repair for iPhone 15 Pro Max: https://www.ifixit.com/Guide/iPhone+15+Pro+Max+Loudspeaker+Replacement/168184
+Rear Cameras repair for iPhone 15 Pro Max: https://www.ifixit.com/Guide/iPhone+15+Pro+Max+Rear+Cameras+Replacement/166241
+Screen repair for iPhone 15 Pro Max: https://www.ifixit.com/Guide/iPhone+15+Pro+Max+Screen+Replacement/166233
+Taptic Engine repair for iPhone 15 Pro Max: https://www.ifixit.com/Guide/iPhone+15+Pro+Max+Taptic+Engine+Replacement/166243
+Back Glass repair for iPhone 15 Pro: https://www.ifixit.com/Guide/iPhone+15+Pro+Back+Glass+Replacement/166397
+Battery repair for iPhone 15 Pro: https://www.ifixit.com/Guide/iPhone+15+Pro+Battery+Replacement/166394
+Earpiece Speaker repair for iPhone 15 Pro: https://www.ifixit.com/Guide/iPhone+15+Pro+Earpiece+Speaker+Replacement/166369
+Front Camera Assembly repair for iPhone 15 Pro: https://www.ifixit.com/Guide/iPhone+15+Pro+Front+Camera+Assembly+Replacement/166370
+Loudspeaker repair for iPhone 15 Pro: https://www.ifixit.com/Guide/iPhone+15+Pro+Loudspeaker+Replacement/166372
+Rear Cameras repair for iPhone 15 Pro: https://www.ifixit.com/Guide/iPhone+15+Pro+Rear+Cameras+Replacement/166366
+Screen repair for iPhone 15 Pro: https://www.ifixit.com/Guide/iPhone+15+Pro+Screen+Replacement/166303
+Taptic Engine repair for iPhone 15 Pro: https://www.ifixit.com/Guide/iPhone+15+Pro+Taptic+Engine+Replacement/168185
+Back Glass repair for iPhone 15 Plus: https://www.ifixit.com/Guide/iPhone+15+Plus+Back+Glass+Replacement/166834
+Battery repair for iPhone 15 Plus: https://www.ifixit.com/Guide/iPhone+15+Plus+Battery+Replacement/166864
+Earpiece Speaker repair for iPhone 15 Plus: https://www.ifixit.com/Guide/iPhone+15+Plus+Earpiece+Speaker+Replacement/166855
+Front Camera Assembly repair for iPhone 15 Plus: https://www.ifixit.com/Guide/iPhone+15+Plus+Front+Camera+Assembly+Replacement/166854
+Loudspeaker repair for iPhone 15 Plus: https://www.ifixit.com/Guide/iPhone+15+Plus+Loudspeaker+Replacement/166860
+Microphone repair for iPhone 15 Plus: https://www.ifixit.com/Guide/iPhone+15+Plus+Microphone+Replacement/166862
+Rear Cameras repair for iPhone 15 Plus: https://www.ifixit.com/Guide/iPhone+15+Plus+Rear+Cameras+Replacement/166857
+Screen repair for iPhone 15 Plus: https://www.ifixit.com/Guide/iPhone+15+Plus+Screen+Replacement/166783
+Taptic Engine repair for iPhone 15 Plus: https://www.ifixit.com/Guide/iPhone+15+Plus+Taptic+Engine+Replacement/166856
+Back Glass repair for iPhone 15: https://www.ifixit.com/Guide/iPhone+15+Back+Glass+Replacement/165686
+Battery repair for iPhone 15: https://www.ifixit.com/Guide/iPhone+15+Battery+Replacement/165733
+Earpiece Speaker repair for iPhone 15: https://www.ifixit.com/Guide/iPhone+15+Earpiece+Speaker+Replacement/165762
+Front Camera Assembly repair for iPhone 15: https://www.ifixit.com/Guide/iPhone+15+Front+Camera+Assembly+Replacement/165718
+Logic Board repair for iPhone 15: https://www.ifixit.com/Guide/iPhone+15+Logic+Board+Replacement/165728
+Loudspeaker repair for iPhone 15: https://www.ifixit.com/Guide/iPhone+15+Loudspeaker+Replacement/165724
+Microphone repair for iPhone 15: https://www.ifixit.com/Guide/iPhone+15+Microphone+Replacement/165725
+Rear Cameras repair for iPhone 15: https://www.ifixit.com/Guide/iPhone+15+Rear+Cameras+Replacement/165721
+Screen repair for iPhone 15: https://www.ifixit.com/Guide/iPhone+15+Screen+Replacement/165669
+Screen repair for iPhone 15: https://www.ifixit.com/Guide/iPhone+15+Screen+Replacement+-+Detailed+Guide/175117
+Taptic Engine repair for iPhone 15: https://www.ifixit.com/Guide/iPhone+15+Taptic+Engine+Replacement/165723
+Battery repair for iPhone 14 Pro Max: https://www.ifixit.com/Guide/iPhone+14+Pro+Max+Battery+Replacement/153006
+Earpiece Speaker repair for iPhone 14 Pro Max: https://www.ifixit.com/Guide/iPhone+14+Pro+Max+Earpiece+Speaker+Replacement/153336
+Front-Facing Camera Assembly repair for iPhone 14 Pro Max: https://www.ifixit.com/Guide/iPhone+14+Pro+Max+Front-Facing+Camera+Assembly+Replacement/153335
+Housing repair for iPhone 14 Pro Max: https://www.ifixit.com/Guide/iPhone+14+Pro+Max+Housing+Replacement/159239
+Lidar Sensor repair for iPhone 14 Pro Max: https://www.ifixit.com/Guide/iPhone+14+Pro+Max+Lidar+Sensor+Replacement/153384
+Loudspeaker repair for iPhone 14 Pro Max: https://www.ifixit.com/Guide/iPhone+14+Pro+Max+Loudspeaker+Replacement/153004
+Pentalobe Screw repair for iPhone 14 Pro Max: https://www.ifixit.com/Guide/iPhone+14+Pro+Max+Pentalobe+Screw+Replacement/153163
+Rear-Facing Camera Assembly repair for iPhone 14 Pro Max: https://www.ifixit.com/Guide/iPhone+14+Pro+Max+Rear-Facing+Camera+Assembly+Replacement/153334
+SIM Card repair for iPhone 14 Pro Max: https://www.ifixit.com/Guide/iPhone+14+Pro+Max+SIM+Card+Replacement/153337
+Screen repair for iPhone 14 Pro Max: https://www.ifixit.com/Guide/iPhone+14+Pro+Max+Screen+Replacement/153003
+Taptic Engine repair for iPhone 14 Pro Max: https://www.ifixit.com/Guide/iPhone+14+Pro+Max+Taptic+Engine+Replacement/153005
+Battery repair for iPhone 14 Pro: https://www.ifixit.com/Guide/iPhone+14+Pro+Battery+Replacement/152973
+Earpiece Speaker repair for iPhone 14 Pro: https://www.ifixit.com/Guide/iPhone+14+Pro+Earpiece+Speaker+Replacement/153345
+Front-Facing Camera Assembly repair for iPhone 14 Pro: https://www.ifixit.com/Guide/iPhone+14+Pro+Front-Facing+Camera+Assembly+Replacement/153346
+Lidar Sensor repair for iPhone 14 Pro: https://www.ifixit.com/Guide/iPhone+14+Pro+Lidar+Sensor+Replacement/153534
+Loudspeaker repair for iPhone 14 Pro: https://www.ifixit.com/Guide/iPhone+14+Pro+Loudspeaker+Replacement/153001
+Pentalobe Screw repair for iPhone 14 Pro: https://www.ifixit.com/Guide/iPhone+14+Pro+Pentalobe+Screw+Replacement/152971
+Rear-Facing Camera Assembly repair for iPhone 14 Pro: https://www.ifixit.com/Guide/iPhone+14+Pro+Rear-Facing+Camera+Assembly+Replacement/153347
+SIM Card repair for iPhone 14 Pro: https://www.ifixit.com/Guide/iPhone+14+Pro+SIM+Card+Replacement/153348
+Screen repair for iPhone 14 Pro: https://www.ifixit.com/Guide/iPhone+14+Pro+Screen+Replacement/152972
+Taptic Engine repair for iPhone 14 Pro: https://www.ifixit.com/Guide/iPhone+14+Pro+Taptic+Engine+Replacement/153002
+Battery repair for iPhone 14 Plus: https://www.ifixit.com/Guide/iPhone+14+Plus+Battery+Replacement/153339
+Earpiece Speaker repair for iPhone 14 Plus: https://www.ifixit.com/Guide/iPhone+14+Plus+Earpiece+Speaker+Replacement/153341
+Front-Facing Camera Assembly repair for iPhone 14 Plus: https://www.ifixit.com/Guide/iPhone+14+Plus+Front-Facing+Camera+Assembly+Replacement/153342
+Loudspeaker repair for iPhone 14 Plus: https://www.ifixit.com/Guide/iPhone+14+Plus+Loudspeaker+Replacement/153355
+Pentalobe Screw repair for iPhone 14 Plus: https://www.ifixit.com/Guide/iPhone+14+Plus+Pentalobe+Screw+Replacement/153164
+Rear Glass repair for iPhone 14 Plus: https://www.ifixit.com/Guide/iPhone+14+Plus+Rear+Glass+Replacement/153340
+Rear-Facing Camera Assembly repair for iPhone 14 Plus: https://www.ifixit.com/Guide/iPhone+14+Plus+Rear-Facing+Camera+Assembly+Replacement/153343
+SIM Card repair for iPhone 14 Plus: https://www.ifixit.com/Guide/iPhone+14+Plus+SIM+Card+Replacement/153344
+Screen repair for iPhone 14 Plus: https://www.ifixit.com/Guide/iPhone+14+Plus+Screen+Replacement/153338
+Taptic Engine repair for iPhone 14 Plus: https://www.ifixit.com/Guide/iPhone+14+Plus+Taptic+Engine+Replacement/153356
+Battery repair for iPhone 14: https://www.ifixit.com/Guide/iPhone+14+Battery+Replacement/152966
+Charging coil assembly repair for iPhone 14: https://www.ifixit.com/Guide/iPhone+14+charging+coil+assembly+replacement/176580
+Earpiece Speaker repair for iPhone 14: https://www.ifixit.com/Guide/iPhone+14+Earpiece+Speaker+Replacement/153349
+Front-Facing Camera Assembly repair for iPhone 14: https://www.ifixit.com/Guide/iPhone+14+Front-Facing+Camera+Assembly+Replacement/153350
+Loudspeaker repair for iPhone 14: https://www.ifixit.com/Guide/iPhone+14+Loudspeaker+Replacement/152976
+Pentalobe Screws repair for iPhone 14: https://www.ifixit.com/Guide/iPhone+14+Pentalobe+Screws+Replacement/152974
+Rear Glass repair for iPhone 14: https://www.ifixit.com/Guide/iPhone+14+Rear+Glass+Replacement/153210
+Rear-Facing Cameras repair for iPhone 14: https://www.ifixit.com/Guide/iPhone+14+Rear-Facing+Cameras+Replacement/153351
+SIM Card repair for iPhone 14: https://www.ifixit.com/Guide/iPhone+14+SIM+Card+Replacement/153352
+Screen repair for iPhone 14: https://www.ifixit.com/Guide/iPhone+14+Screen+Replacement/152975
+Taptic Engine repair for iPhone 14: https://www.ifixit.com/Guide/iPhone+14+Taptic+Engine+Replacement/153354
+Battery repair for iPhone SE 2022: https://www.ifixit.com/Guide/iPhone+SE+2022+Battery+Replacement/150436
+Earpiece Speaker repair for iPhone SE 2022: https://www.ifixit.com/Guide/iPhone+SE+2022+Earpiece+Speaker+Replacement/149930
+Front Camera And Sensor Cable repair for iPhone SE 2022: https://www.ifixit.com/Guide/iPhone+SE+2022+Front+Camera+And+Sensor+Cable+Replacement/150090
+Home/Touch ID Sensor repair for iPhone SE 2022: https://www.ifixit.com/Guide/iPhone+SE+2022+Home-Touch+ID+Sensor+Replacement/149929
+LCD and Digitizer repair for iPhone SE 2022: https://www.ifixit.com/Guide/iPhone+SE+2022+LCD+and+Digitizer+Replacement/149924
+Lightning Connector Assembly repair for iPhone SE 2022: https://www.ifixit.com/Guide/iPhone+SE+2022+Lightning+Connector+Assembly+Replacement/150091
+Logic Board repair for iPhone SE 2022: https://www.ifixit.com/Guide/iPhone+SE+2022+Logic+Board+Replacement/150432
+Pentalobe Screws repair for iPhone SE 2022: https://www.ifixit.com/Guide/iPhone+SE+2022+Pentalobe+Screws+Replacement/149925
+Rear Camera repair for iPhone SE 2022: https://www.ifixit.com/Guide/iPhone+SE+2022+Rear+Camera+Replacement/150089
+SIM Card Tray repair for iPhone SE 2022: https://www.ifixit.com/Guide/iPhone+SE+2022+SIM+Card+Tray+Replacement/150859
+Screen repair for iPhone SE 2022: https://www.ifixit.com/Guide/iPhone+SE+2022+Screen+Replacement/150440
+Taptic Engine repair for iPhone SE 2022: https://www.ifixit.com/Guide/iPhone+SE+2022+Taptic+Engine+Replacement/150088
+Wi-Fi Diversity Antenna repair for iPhone SE 2022: https://www.ifixit.com/Guide/iPhone+SE+2022+Wi-Fi+Diversity+Antenna+Replacement/150087
+Battery repair for iPhone 13 Pro Max: https://www.ifixit.com/Guide/iPhone+13+Pro+Max+Battery+Replacement/146610
+Lidar Sensor repair for iPhone 13 Pro Max: https://www.ifixit.com/Guide/iPhone+13+Pro+Max+Lidar+Sensor+Replacement/146607
+Loudspeaker repair for iPhone 13 Pro Max: https://www.ifixit.com/Guide/iPhone+13+Pro+Max+Loudspeaker+Replacement/146599
+Pentalobe Screw repair for iPhone 13 Pro Max: https://www.ifixit.com/Guide/iPhone+13+Pro+Max+Pentalobe+Screws+Replacement/146562
+Rear-Facing Cameras repair for iPhone 13 Pro Max: https://www.ifixit.com/Guide/iPhone+13+Pro+Max+Rear-Facing+Camera+Replacement/146604
+SIM Card repair for iPhone 13 Pro Max: https://www.ifixit.com/Guide/iPhone+13+Pro+Max+SIM+Card+Replacement/146377
+Screen repair for iPhone 13 Pro Max: https://www.ifixit.com/Guide/iPhone+13+Pro+Max+Screen+Replacement/146566
+Taptic Engine repair for iPhone 13 Pro Max: https://www.ifixit.com/Guide/iPhone+13+Pro+Max+Taptic+Engine+Replacement/146601
+Battery repair for iPhone 13 Pro: https://www.ifixit.com/Guide/iPhone+13+Pro+Battery+Replacement/146608
+Lidar Sensor repair for iPhone 13 Pro: https://www.ifixit.com/Guide/iPhone+13+Pro+Lidar+Sensor+Replacement/146605
+Loudspeaker repair for iPhone 13 Pro: https://www.ifixit.com/Guide/iPhone+13+Pro+Loudspeaker+Replacement/146598
+Pentalobe Screw repair for iPhone 13 Pro: https://www.ifixit.com/Guide/iPhone+13+Pro+Pentalobe+Screws+Replacement/146556
+Rear-Facing Cameras repair for iPhone 13 Pro: https://www.ifixit.com/Guide/iPhone+13+Pro+Rear-Facing+Camera+Replacement/146603
+SIM Card repair for iPhone 13 Pro: https://www.ifixit.com/Guide/iPhone+13+Pro+SIM+Card+Replacement/146374
+Screen repair for iPhone 13 Pro: https://www.ifixit.com/Guide/iPhone+13+Pro+Screen+Replacement/146552
+Taptic Engine repair for iPhone 13 Pro: https://www.ifixit.com/Guide/iPhone+13+Pro+Taptic+Engine+Replacement/146600
+Battery repair for iPhone 13 Mini: https://www.ifixit.com/Guide/iPhone+13+mini+Battery+Replacement/145508
+Bottom Speaker repair for iPhone 13 Mini: https://www.ifixit.com/Guide/iPhone+13+mini+Bottom+Speaker+Replacement/145507
+Front Sensor Assembly repair for iPhone 13 Mini: https://www.ifixit.com/Guide/iPhone+13+mini+Front+Sensor+Assembly+Replacement/145628
+Pentalobe Screws repair for iPhone 13 Mini: https://www.ifixit.com/Guide/iPhone+13+mini+Pentalobe+Screws+Replacement/145502
+SIM Card Tray repair for iPhone 13 Mini: https://www.ifixit.com/Guide/iPhone+13+mini+SIM+Card+Tray+Replacement/145503
+Screen repair for iPhone 13 Mini: https://www.ifixit.com/Guide/iPhone+13+mini+Screen+Replacement/145630
+Taptic Engine repair for iPhone 13 Mini: https://www.ifixit.com/Guide/iPhone+13+mini+Taptic+Engine+Replacement/145506
+Battery repair for iPhone 13: https://www.ifixit.com/Guide/iPhone+13+Battery+Replacement/145896
+Loudspeaker repair for iPhone 13: https://www.ifixit.com/Guide/iPhone+13+Loudspeaker+Replacement/146277
+Pentalobe Screws repair for iPhone 13: https://www.ifixit.com/Guide/iPhone+13+Pentalobe+Screws+Replacement/146249
+Rear-Facing Cameras repair for iPhone 13: https://www.ifixit.com/Guide/iPhone+13+Rear-Facing+Camera+Replacement/146278
+SIM Card Reader repair for iPhone 13: https://www.ifixit.com/Guide/iPhone+13+SIM+Card+Reader+Replacement/146282
+SIM Card Tray repair for iPhone 13: https://www.ifixit.com/Guide/iPhone+13+SIM+Card+Tray+Replacement/146227
+Screen repair for iPhone 13: https://www.ifixit.com/Guide/iPhone+13+Screen+Replacement/145897
+Taptic Engine repair for iPhone 13: https://www.ifixit.com/Guide/iPhone+13+Taptic+Engine+Replacement/146281
+Battery repair for iPhone 12 Pro Max: https://www.ifixit.com/Guide/iPhone+12+Pro+Max+Battery+Replacement/141661
+Earpiece Speaker and Front Sensor Assembly repair for iPhone 12 Pro Max: https://www.ifixit.com/Guide/iPhone+12+Pro+Max+Earpiece+Speaker+and+Front+Sensor+Assembly+Replacement/141653
+Front-Facing Cameras repair for iPhone 12 Pro Max: https://www.ifixit.com/Guide/iPhone+12+Pro+Max+Front-Facing+Cameras+Replacement/141656
+Loudspeaker repair for iPhone 12 Pro Max: https://www.ifixit.com/Guide/iPhone+12+Pro+Max+Loudspeaker+Replacement/141658
+Pentalobe Screws repair for iPhone 12 Pro Max: https://www.ifixit.com/Guide/iPhone+12+Pro+Max+Pentalobe+Replacement/141650
+Rear-Facing Cameras repair for iPhone 12 Pro Max: https://www.ifixit.com/Guide/iPhone+12+Pro+Max+Rear-Facing+Cameras+Replacement/141657
+SIM Card repair for iPhone 12 Pro Max: https://www.ifixit.com/Guide/iPhone+12+Pro+Max+SIM+Card+Replacement/141644
+SIM Card Reader repair for iPhone 12 Pro Max: https://www.ifixit.com/Guide/iPhone+12+Pro+Max+SIM+Card+Reader+Replacement/141659
+Screen repair for iPhone 12 Pro Max: https://www.ifixit.com/Guide/iPhone+12+Pro+Max+Screen+Replacement/141654
+Taptic Engine repair for iPhone 12 Pro Max: https://www.ifixit.com/Guide/iPhone+12+Pro+Max+Taptic+Engine+Replacement/141660
+Battery repair for iPhone 12 Pro: https://www.ifixit.com/Guide/iPhone+12+Pro+Battery+Replacement/140611
+Earpiece Speaker and Front Sensor Assembly repair for iPhone 12 Pro: https://www.ifixit.com/Guide/iPhone+12+Pro+Earpiece+Speaker+and+Front+Sensor+Assembly+Replacement/140594
+Front-Facing Cameras repair for iPhone 12 Pro: https://www.ifixit.com/Guide/iPhone+12+Pro+Front-Facing+Cameras+Replacement/140596
+Loudspeaker repair for iPhone 12 Pro: https://www.ifixit.com/Guide/iPhone+12+Pro+Loudspeaker+Replacement/140595
+Pentalobe repair for iPhone 12 Pro: https://www.ifixit.com/Guide/iPhone+12+Pro+Pentalobe+Replacement/140591
+Rear-Facing Cameras repair for iPhone 12 Pro: https://www.ifixit.com/Guide/iPhone+12+Pro+Rear-Facing+Cameras+Replacement/140597
+SIM Card repair for iPhone 12 Pro: https://www.ifixit.com/Guide/iPhone+12+Pro+SIM+Card+Replacement/140592
+SIM Card Reader repair for iPhone 12 Pro: https://www.ifixit.com/Guide/iPhone+12+Pro+SIM+Card+Reader+Replacement/140609
+Screen repair for iPhone 12 Pro: https://www.ifixit.com/Guide/iPhone+12+Pro+Screen+Replacement/140593
+Taptic Engine repair for iPhone 12 Pro: https://www.ifixit.com/Guide/iPhone+12+Pro+Taptic+Engine+Replacement/140610
+USB IC repair for iPhone 12 Pro: https://www.ifixit.com/Guide/Fix+iPhone+12+Pro+Stuck+on+Apple+Logo/143071
+Battery repair for iPhone 12 mini: https://www.ifixit.com/Guide/iPhone+12+mini+Battery+Replacement/139693
+Bottom Speaker repair for iPhone 12 mini: https://www.ifixit.com/Guide/iPhone+12+mini+Bottom+Speaker+Replacement/140107
+Earpiece Speaker and Front Sensor Assembly repair for iPhone 12 mini: https://www.ifixit.com/Guide/iPhone+12+mini+Earpiece+Speaker+and+Front+Sensor+Assembly+Replacement/139975
+Front-Facing Cameras repair for iPhone 12 mini: https://www.ifixit.com/Guide/iPhone+12+mini+Front-Facing+Cameras+Replacement/140334
+Pentalobe Screws repair for iPhone 12 mini: https://www.ifixit.com/Guide/iPhone+12+mini+Pentalobe+Screws+Replacement/139690
+Rear-Facing Cameras repair for iPhone 12 mini: https://www.ifixit.com/Guide/iPhone+12+mini+Rear-Facing+Cameras+Replacement/140333
+SIM Tray repair for iPhone 12 mini: https://www.ifixit.com/Guide/iPhone+12+mini+SIM+Tray+Replacement/139691
+Screen repair for iPhone 12 mini: https://www.ifixit.com/Guide/iPhone+12+mini+Screen+Replacement/140482
+Taptic Engine repair for iPhone 12 mini: https://www.ifixit.com/Guide/iPhone+12+mini+Taptic+Engine+Replacement/139696
+Battery repair for iPhone 12: https://www.ifixit.com/Guide/iPhone+12+Battery+Replacement/140588
+Earpiece Speaker and Front Sensor Assembly repair for iPhone 12: https://www.ifixit.com/Guide/iPhone+12+Earpiece+Speaker+and+Front+Sensor+Assembly+Replacement/140573
+Front-Facing Cameras repair for iPhone 12: https://www.ifixit.com/Guide/iPhone+12+Front-Facing+Cameras+Replacement/140582
+Loudspeaker repair for iPhone 12: https://www.ifixit.com/Guide/iPhone+12+Loudspeaker+Replacement/140581
+Pentalobe Screws repair for iPhone 12: https://www.ifixit.com/Guide/iPhone+12+Pentalobe+Screws+Replacement/140570
+Rear-Facing Cameras repair for iPhone 12: https://www.ifixit.com/Guide/iPhone+12+Rear-Facing+Cameras+Replacement/140583
+SIM Card repair for iPhone 12: https://www.ifixit.com/Guide/iPhone+12+SIM+Card+Replacement/140578
+SIM Card Reader repair for iPhone 12: https://www.ifixit.com/Guide/iPhone+12+SIM+Card+Reader+Replacement/140584
+Screen repair for iPhone 12: https://www.ifixit.com/Guide/iPhone+12+Screen+Replacement/140572
+Screen Protector repair for iPhone 12: https://www.ifixit.com/Guide/How+to+Replace+a+Screen+Protector+on+an+iPhone+12/167797
+Taptic Engine repair for iPhone 12: https://www.ifixit.com/Guide/iPhone+12+Taptic+Engine+Replacement/140585
+Battery repair for iPhone SE 2020: https://www.ifixit.com/Guide/iPhone+SE+2020+Battery+Replacement/133814
+Earpiece Speaker repair for iPhone SE 2020: https://www.ifixit.com/Guide/iPhone+SE+2020+Earpiece+Speaker+Replacement/133864
+Front Camera And Sensor Cable repair for iPhone SE 2020: https://www.ifixit.com/Guide/iPhone+SE+2020+Front+Camera+And+Sensor+Cable+Replacement/133865
+Home/Touch ID Sensor repair for iPhone SE 2020: https://www.ifixit.com/Guide/iPhone+SE+2020+Home-Touch+ID+Sensor+Replacement/133868
+LCD and Digitizer repair for iPhone SE 2020: https://www.ifixit.com/Guide/iPhone+SE+2020+LCD+and+Digitizer+Replacement/133869
+Lightning Connector Assembly repair for iPhone SE 2020: https://www.ifixit.com/Guide/iPhone+SE+2020+Lightning+Connector+Assembly+Replacement/133871
+Logic Board repair for iPhone SE 2020: https://www.ifixit.com/Guide/iPhone+SE+2020+Logic+Board+Replacement/133872
+Rear Camera repair for iPhone SE 2020: https://www.ifixit.com/Guide/iPhone+SE+2020+Rear+Camera+Replacement/133889
+SIM Card repair for iPhone SE 2020: https://www.ifixit.com/Guide/iPhone+SE+2020+SIM+Card+Replacement/133895
+Screen repair for iPhone SE 2020: https://www.ifixit.com/Guide/iPhone+SE+2020+Screen+Replacement/133817
+Taptic Engine repair for iPhone SE 2020: https://www.ifixit.com/Guide/iPhone+SE+2020+Taptic+Engine+Replacement/133892
+Wi-Fi Diversity Antenna repair for iPhone SE 2020: https://www.ifixit.com/Guide/iPhone+SE+2020+Wi-Fi+Diversity+Antenna+Replacement/133893
+Battery repair for iPhone 11 Pro Max: https://www.ifixit.com/Guide/iPhone+11+Pro+Max+Battery+Replacement/128034
+Earpiece Speaker and Front Sensor Assembly repair for iPhone 11 Pro Max: https://www.ifixit.com/Guide/iPhone+11+Pro+Max+Earpiece+Speaker+and+Front+Sensor+Assembly+Replacement/128662
+Front-Facing Cameras repair for iPhone 11 Pro Max: https://www.ifixit.com/Guide/iPhone+11+Pro+Max+Front-Facing+Cameras+Replacement/129703
+Lightning Connector Assembly repair for iPhone 11 Pro Max: https://www.ifixit.com/Guide/iPhone+11+Pro+Max+Lightning+Connector+Assembly+Replacement/129914
+Logic Board repair for iPhone 11 Pro Max: https://www.ifixit.com/Guide/iPhone+11+Pro+Max+Logic+Board+Replacement/127945
+Pentalobe Screws repair for iPhone 11 Pro Max: https://www.ifixit.com/Guide/iPhone+11+Pro+Max+Pentalobe+Screws+Replacement/127417
+Rear-Facing Cameras repair for iPhone 11 Pro Max: https://www.ifixit.com/Guide/iPhone+11+Pro+Max+Rear-Facing+Cameras+Replacement/128480
+SIM Card repair for iPhone 11 Pro Max: https://www.ifixit.com/Guide/iPhone+11+Pro+Max+SIM+Card+Replacement/126785
+Screen repair for iPhone 11 Pro Max: https://www.ifixit.com/Guide/iPhone+11+Pro+Max+Screen+Replacement/127817
+Screen Glass repair for iPhone 11 Pro Max: https://www.ifixit.com/Guide/iPhone+11+Pro+Max+Screen+Glass+Replacement/128587
+Taptic Engine repair for iPhone 11 Pro Max: https://www.ifixit.com/Guide/iPhone+11+Pro+Max+Taptic+Engine+Replacement/129253
+Back Glass repair for iPhone 11 Pro: https://www.ifixit.com/Guide/iPhone+11+Pro+Back+Glass+Replacement/154626
+Battery repair for iPhone 11 Pro: https://www.ifixit.com/Guide/iPhone+11+Pro+Battery+Replacement/127686
+Earpiece Speaker and Front Sensor Assembly repair for iPhone 11 Pro: https://www.ifixit.com/Guide/iPhone+11+Pro+Earpiece+Speaker+and+Front+Sensor+Assembly+Replacement/128656
+Front Camera Only repair for iPhone 11 Pro: https://www.ifixit.com/Guide/iPhone+11+Pro+Front+Camera+Replacement+Without+Losing+Face+ID/143157
+Front-Facing Cameras repair for iPhone 11 Pro: https://www.ifixit.com/Guide/iPhone+11+Pro+Front-Facing+Cameras+Replacement/129684
+Lightning Connector Assembly repair for iPhone 11 Pro: https://www.ifixit.com/Guide/iPhone+11+Pro+Lightning+Connector+Assembly+Replacement/129075
+Logic Board repair for iPhone 11 Pro: https://www.ifixit.com/Guide/iPhone+11+Pro+Logic+Board+Replacement/127623
+Lower Speaker repair for iPhone 11 Pro: https://www.ifixit.com/Guide/iPhone+11+Pro+Lower+Speaker+Replacement/129199
+Pentalobe Screws repair for iPhone 11 Pro: https://www.ifixit.com/Guide/iPhone+11+Pro+Pentalobe+Screws+Replacement/127416
+Rear Case repair for iPhone 11 Pro: https://www.ifixit.com/Guide/iPhone+11+Pro+Rear+Case+Replacement/129128
+Rear-Facing Cameras repair for iPhone 11 Pro: https://www.ifixit.com/Guide/iPhone+11+Pro+Rear-Facing+Cameras+Replacement/127647
+SIM Card repair for iPhone 11 Pro: https://www.ifixit.com/Guide/iPhone+11+Pro+SIM+Card+Replacement/126761
+Screen repair for iPhone 11 Pro: https://www.ifixit.com/Guide/iPhone+11+Pro+Screen+Replacement/127512
+Taptic Engine repair for iPhone 11 Pro: https://www.ifixit.com/Guide/iPhone+11+Pro+Taptic+Engine+Replacement/129249
+Battery repair for iPhone 11: https://www.ifixit.com/Guide/iPhone+11+Battery+Replacement/127450
+Charging Port repair for iPhone 11: https://www.ifixit.com/Guide/iPhone+11+Charging+Port+Replacement/167336
+Display Panel repair for iPhone 11: https://www.ifixit.com/Guide/iPhone+11+Display+Panel+Replacement/126236
+Earpiece Speaker and Front Sensor Assembly repair for iPhone 11: https://www.ifixit.com/Guide/iPhone+11+Earpiece+Speaker+and+Front+Sensor+Assembly+Replacement/128624
+Lightning Connector Assembly repair for iPhone 11: https://www.ifixit.com/Guide/iPhone+11+Lightning+Connector+Assembly+Replacement/128676
+Logic Board repair for iPhone 11: https://www.ifixit.com/Guide/iPhone+11+Logic+Board+Replacement/127445
+Lower Speaker repair for iPhone 11: https://www.ifixit.com/Guide/iPhone+11+Lower+Speaker+Replacement/128524
+Pentalobe Screws repair for iPhone 11: https://www.ifixit.com/Guide/iPhone+11+Pentalobe+Screws+Replacement/127380
+Rear Case repair for iPhone 11: https://www.ifixit.com/Guide/iPhone+11+Rear+Case+Replacement/128386
+Rear-Facing Cameras repair for iPhone 11: https://www.ifixit.com/Guide/iPhone+11+Rear-Facing+Cameras+Replacement/126599
+Resistor repair for iPhone 11: https://www.ifixit.com/Guide/iPhone+11+Black+Screen-+No+Display+Backlight+Repair/143311
+SIM Card repair for iPhone 11: https://www.ifixit.com/Guide/iPhone+11+SIM+Card+Replacement/126760
+SIM Card Reader repair for iPhone 11: https://www.ifixit.com/Guide/iPhone+11+SIM+Card+Reader+Replacement/129681
+Screen repair for iPhone 11: https://www.ifixit.com/Guide/iPhone+11+Screen+Replacement/135705
+Taptic Engine repair for iPhone 11: https://www.ifixit.com/Guide/iPhone+11+Taptic+Engine+Replacement/130323
+main camera repair for iPhone 11: https://www.ifixit.com/Guide/iPhone+Camera+Repair/148042
+Battery repair for iPhone XR: https://www.ifixit.com/Guide/iPhone+XR+Battery+Replacement/116553
+Earpiece and Front Sensor Assembly repair for iPhone XR: https://www.ifixit.com/Guide/iPhone+XR+Earpiece+and+Front+Sensor+Assembly+Replacement/116029
+LCD and Digitizer repair for iPhone XR: https://www.ifixit.com/Guide/iPhone+XR+LCD+and+Digitizer+Replacement/125565
+Logic Board repair for iPhone XR: https://www.ifixit.com/Guide/iPhone+XR+Logic+Board+Replacement/126272
+Lower Speaker repair for iPhone XR: https://www.ifixit.com/Guide/iPhone+XR+Lower+Speaker+Replacement/116509
+Pentalobe Screws repair for iPhone XR: https://www.ifixit.com/Guide/iPhone+XR+Pentalobe+Screws+Replacement/115810
+Rear Glass repair for iPhone XR: https://www.ifixit.com/Guide/iPhone+XR+Rear+Glass+Replacement/132169
+Rear-Facing Camera repair for iPhone XR: https://www.ifixit.com/Guide/iPhone+XR+Rear-Facing+Camera+Replacement/124238
+SIM Card repair for iPhone XR: https://www.ifixit.com/Guide/iPhone+XR+SIM+Card+Replacement/116636
+Screen repair for iPhone XR: https://www.ifixit.com/Guide/iPhone+XR+Screen+Replacement/116036
+Taptic Engine repair for iPhone XR: https://www.ifixit.com/Guide/iPhone+XR+Taptic+Engine+Replacement/116601
+iPhone XR Rear Glass Replacement repair for iPhone XR: https://www.ifixit.com/Guide/An+easy+way+to+replace+a+broken+rear+glass+on+an+iPhone+XR/135183
+Back Glass repair for iPhone XS Max: https://www.ifixit.com/Guide/iPhone+XS+Max+Back+Glass+Replacement/128999
+Battery repair for iPhone XS Max: https://www.ifixit.com/Guide/iPhone+XS+Max+Battery+Replacement/117345
+Earpiece Speaker and Front Sensor Assembly repair for iPhone XS Max: https://www.ifixit.com/Guide/iPhone+XS+Max+Earpiece+Speaker+and+Front+Sensor+Assembly+Replacement/113638
+Lower Speaker repair for iPhone XS Max: https://www.ifixit.com/Guide/iPhone+XS+Max+Lower+Speaker+Replacement/117150
+Pentalobe Screws repair for iPhone XS Max: https://www.ifixit.com/Guide/iPhone+XS+Max+Pentalobe+Screws+Replacement/113299
+Rear Glass repair for iPhone XS Max: https://www.ifixit.com/Guide/iPhone+XS+Max+Rear+Glass+Replacement/132175
+Rear-Facing Cameras repair for iPhone XS Max: https://www.ifixit.com/Guide/iPhone+XS+Max+Rear-Facing+Cameras+Replacement/116607
+SIM Card repair for iPhone XS Max: https://www.ifixit.com/Guide/iPhone+XS+Max+SIM+Card+Replacement/113270
+Screen repair for iPhone XS Max: https://www.ifixit.com/Guide/iPhone+XS+Max+Screen+Replacement/113866
+Taptic Engine repair for iPhone XS Max: https://www.ifixit.com/Guide/iPhone+XS+Max+Taptic+Engine+Replacement/117156
+Battery repair for iPhone XS: https://www.ifixit.com/Guide/iPhone+XS+Battery+Replacement/117346
+Earpiece Speaker and Front Sensor Assembly repair for iPhone XS: https://www.ifixit.com/Guide/iPhone+XS+Earpiece+Speaker+and+Front+Sensor+Assembly+Replacement/113605
+Lightning Connector Assembly repair for iPhone XS: https://www.ifixit.com/Guide/iPhone+XS+Lightning+Connector+Assembly+Replacement/151036
+Lower Speaker repair for iPhone XS: https://www.ifixit.com/Guide/iPhone+XS+Lower+Speaker+Replacement/117151
+NAND repair for iPhone XS: https://www.ifixit.com/Guide/iPhone+XS+Won't+Turn+On+with+P12+(NAND+Programmer+for+iPhone+6+-+iPhone+11+Pro+Max)/145392
+Pentalobe Screws repair for iPhone XS: https://www.ifixit.com/Guide/iPhone+XS+Pentalobe+Screws+Replacement/113298
+Rear Camera Lens Cover repair for iPhone XS: https://www.ifixit.com/Guide/iPhone+XS+Rear+Camera+Lens+Cover+Replacment/128427
+Rear Glass repair for iPhone XS: https://www.ifixit.com/Guide/iPhone+XS+Rear+Glass+Replacement/132174
+Rear-Facing Cameras repair for iPhone XS: https://www.ifixit.com/Guide/iPhone+XS+Rear-Facing+Cameras+Replacement/116608
+SIM Card repair for iPhone XS: https://www.ifixit.com/Guide/iPhone+XS+SIM+Card+Replacement/113267
+Screen repair for iPhone XS: https://www.ifixit.com/Guide/iPhone+XS+Screen+Replacement/113862
+Taptic Engine repair for iPhone XS: https://www.ifixit.com/Guide/iPhone+XS+Taptic+Engine+Replacement/117155
+Battery repair for iPhone X: https://www.ifixit.com/Guide/iPhone+X+Battery+Replacement/103390
+Bluetooth Antenna repair for iPhone X: https://www.ifixit.com/Guide/iPhone+X+Bluetooth+Antenna+Replacement/151653
+Charging Pad / Volume Button Assembly repair for iPhone X: https://www.ifixit.com/Guide/iPhone+X+Charging+Pad+-+Volume+Button+Assembly+Replacement/151648
+Earpiece Speaker repair for iPhone X: https://www.ifixit.com/Guide/iPhone+X+Earpiece+Speaker+Replacement+Without+Losing+Face+ID/151215
+Earpiece Speaker and Front Sensor Assembly repair for iPhone X: https://www.ifixit.com/Guide/iPhone+X+Earpiece+Speaker+and+Front+Sensor+Assembly+Replacement/102322
+Face ID repair for iPhone X: https://www.ifixit.com/Guide/iPhone+X+Face+ID+Replacement/151174
+Front Camera Assembly repair for iPhone X: https://www.ifixit.com/Guide/iPhone+X+Front+Camera+Assembly+Replacement/151177
+Front Panel Screen Retainers repair for iPhone X: https://www.ifixit.com/Guide/iPhone+X+Front+Panel+Screen+Retainers+Replacement/152022
+Interconnect Cable repair for iPhone X: https://www.ifixit.com/Guide/iPhone+X+Interconnect+Cable+Replacement/151643
+Lightning Connector repair for iPhone X: https://www.ifixit.com/Guide/iPhone+X+Lightning+Connector+Replacement/151639
+Logic Board (Motherboard) repair for iPhone X: https://www.ifixit.com/Guide/iPhone+X+Logic+Board+(Motherboard)+Replacement/151179
+Lower Speaker repair for iPhone X: https://www.ifixit.com/Guide/iPhone+X+Lower+Speaker+Replacement/103045
+NAND repair for iPhone X: https://www.ifixit.com/Guide/Unlock+NAND+Data+for+NAND+Repair+-+Fix+iPhone+X+Stuck+in+Recovery+Mode/145293
+Pentalobe Screws repair for iPhone X: https://www.ifixit.com/Guide/iPhone+X+Pentalobe+Screws+Replacement/101649
+Power Button and Flash Cable repair for iPhone X: https://www.ifixit.com/Guide/iPhone+X+Power+Button+and+Flash+Cable+Replacement/151645
+Power and Audio Exterior Buttons repair for iPhone X: https://www.ifixit.com/Guide/iPhone+X+Power+and+Audio+Exterior+Buttons+Replacement/152019
+Rear Case repair for iPhone X: https://www.ifixit.com/Guide/iPhone+X+Rear+Case+Replacement/151603
+Rear-Facing Cameras repair for iPhone X: https://www.ifixit.com/Guide/iPhone+X+Rear-Facing+Cameras+Replacement/123895
+SIM Card repair for iPhone X: https://www.ifixit.com/Guide/iPhone+X++SIM+Card++Replacement/100008
+SIM Card Reader repair for iPhone X: https://www.ifixit.com/Guide/iPhone+X+SIM+Card+Reader+Replacement/142875
+Screen repair for iPhone X: https://www.ifixit.com/Guide/iPhone+X+Screen+Replacement/102423
+Taptic Engine repair for iPhone X: https://www.ifixit.com/Guide/iPhone+X+Taptic+Engine+Replacement/103269
+WiFi Antenna repair for iPhone X: https://www.ifixit.com/Guide/iPhone+X+WiFi+Antenna+Replacement/151650
+Battery repair for iPhone 8 Plus: https://www.ifixit.com/Guide/iPhone+8+Plus+Battery+Replacement/98260
+Earpiece Speaker repair for iPhone 8 Plus: https://www.ifixit.com/Guide/iPhone+8+Plus+Earpiece+Speaker+Replacement/111371
+Front Camera and Sensor Cable repair for iPhone 8 Plus: https://www.ifixit.com/Guide/iPhone+8+Plus+Front+Camera+and+Sensor+Cable+Replacement/111372
+Home/Touch ID Sensor repair for iPhone 8 Plus: https://www.ifixit.com/Guide/iPhone+8+Plus+Home-Touch+ID+Sensor+Replacement/100950
+LCD and Digitizer repair for iPhone 8 Plus: https://www.ifixit.com/Guide/iPhone+8+Plus+LCD+and+Digitizer+Replacement/111373
+Lightning Connector Assembly repair for iPhone 8 Plus: https://www.ifixit.com/Guide/iPhone+8+Plus+Lightning+Connector+Assembly+Replacement/111156
+Lower Speaker repair for iPhone 8 Plus: https://www.ifixit.com/Guide/iPhone+8+Plus+Lower+Speaker+Replacement/111210
+Pentalobe Screws repair for iPhone 8 Plus: https://www.ifixit.com/Guide/iPhone+8+Plus+Pentalobe+Screws+Replacement/100572
+Rear-Facing Cameras repair for iPhone 8 Plus: https://www.ifixit.com/Guide/iPhone+8+Plus+Rear-Facing+Cameras+Replacement/110957
+SIM Card repair for iPhone 8 Plus: https://www.ifixit.com/Guide/iPhone+8+Plus+SIM+Card+Replacement/110955
+Screen repair for iPhone 8 Plus: https://www.ifixit.com/Guide/iPhone+8+Plus+Screen+Replacement/100961
+Taptic Engine repair for iPhone 8 Plus: https://www.ifixit.com/Guide/iPhone+8+Plus+Taptic+Engine+Replacement/110792
+Top Left Antenna repair for iPhone 8 Plus: https://www.ifixit.com/Guide/iPhone+8+Plus+Top+Left+Antenna+Replacement/111657
+Wi-Fi Diversity Antenna repair for iPhone 8 Plus: https://www.ifixit.com/Guide/iPhone+8+Plus+Wi-Fi+Diversity+Antenna+Flex/111209
+Battery repair for iPhone 8: https://www.ifixit.com/Guide/iPhone+8+Battery+Replacement/101279
+Charging Port flex cable repair for iPhone 8: https://www.ifixit.com/Guide/iPhone+8+Charging+Port+flex+cable+Replacement/133204
+Earpiece Speaker repair for iPhone 8: https://www.ifixit.com/Guide/iPhone+8+Earpiece+Speaker+Replacement/111548
+Front Camera and Sensor Cable repair for iPhone 8: https://www.ifixit.com/Guide/iPhone+8+Front+Camera+and+Sensor+Cable+Replacement/111547
+Home/Touch ID Sensor repair for iPhone 8: https://www.ifixit.com/Guide/iPhone+8+Home-Touch+ID+Sensor+Replacement/101011
+LCD and Digitizer repair for iPhone 8: https://www.ifixit.com/Guide/iPhone+8+LCD+and+Digitizer+Replacement/111552
+Lightning Connector Assembly repair for iPhone 8: https://www.ifixit.com/Guide/iPhone+8+Lightning+Connector+Assembly+Replacement/111207
+Logic Board repair for iPhone 8: https://www.ifixit.com/Guide/iPhone+8+Logic+Board+Replacement/111172
+Pentalobe Screws repair for iPhone 8: https://www.ifixit.com/Guide/iPhone+8+Pentalobe+Screws+Replacement/100567
+Rear Camera repair for iPhone 8: https://www.ifixit.com/Guide/iPhone+8+Rear+Camera+Replacement/111656
+SIM Card repair for iPhone 8: https://www.ifixit.com/Guide/iPhone+8+SIM+Card+Replacement/111174
+Screen repair for iPhone 8: https://www.ifixit.com/Guide/iPhone+8+Screen+Replacement/98255
+Taptic Engine repair for iPhone 8: https://www.ifixit.com/Guide/iPhone+8+Taptic+Engine+Replacement/110867
+Wi-Fi Diversity Antenna repair for iPhone 8: https://www.ifixit.com/Guide/iPhone+8+Wi-Fi+Diversity+Antenna+Replacement/111299
+Battery repair for iPhone SE (1st Generation): https://www.ifixit.com/Guide/iPhone+SE+Battery+Replacement/61303
+Earpiece Speaker repair for iPhone SE (1st Generation): https://www.ifixit.com/Guide/iPhone+SE+Earpiece+Speaker+Replacement/61306
+Front Facing Camera and Sensor Cable repair for iPhone SE (1st Generation): https://www.ifixit.com/Guide/iPhone+SE+Front+Facing+Camera+and+Sensor+Cable+Replacement/61309
+Home Button repair for iPhone SE (1st Generation): https://www.ifixit.com/Guide/iPhone+SE+Home+Button+Replacement/61311
+LCD and Digitizer repair for iPhone SE (1st Generation): https://www.ifixit.com/Guide/iPhone+SE+LCD+and+Digitizer+Replacement/61310
+Lightning Connector repair for iPhone SE (1st Generation): https://www.ifixit.com/Guide/iPhone+SE+Lightning+Connector+Replacement/61312
+Logic Board repair for iPhone SE (1st Generation): https://www.ifixit.com/Guide/iPhone+SE+Logic+Board+Replacement/61314
+Rear Facing Camera repair for iPhone SE (1st Generation): https://www.ifixit.com/Guide/iPhone+SE+Rear+Facing+Camera+Replacement/61319
+SIM Eject Lever repair for iPhone SE (1st Generation): https://www.ifixit.com/Guide/iPhone+SE+SIM+Eject+Lever+Replacement/61322
+SIM Tray repair for iPhone SE (1st Generation): https://www.ifixit.com/Guide/iPhone+SE+SIM+Tray+Replacement/61742
+Screen repair for iPhone SE (1st Generation): https://www.ifixit.com/Guide/iPhone+SE+Screen+Replacement/61305
+Speaker repair for iPhone SE (1st Generation): https://www.ifixit.com/Guide/iPhone+SE+Speaker+Replacement/61323
+Vibrator repair for iPhone SE (1st Generation): https://www.ifixit.com/Guide/iPhone+SE+Vibrator+Replacement/61324
+Volume Controls repair for iPhone SE (1st Generation): https://www.ifixit.com/Guide/iPhone+SE+Volume+Controls+Replacement/61325
